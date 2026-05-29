@@ -1,0 +1,493 @@
+EARLY DISEASE DETECTION AND SURVEILLANCE GUIDE
+FOR POULTRY AND LIVESTOCK FARMS IN INDIA
+Advisory Reference for Farmers, Farm Managers, and Animal Health Workers
+
+==============================================================
+SECTION 1: WHY EARLY DETECTION MATTERS
+==============================================================
+
+Early detection of disease on a farm can mean the difference between treating a handful of animals and losing an entire flock or herd. In commercial poultry operations, diseases such as Newcastle Disease or Infectious Bursal Disease can wipe out 20-80% of a flock within days if not caught early. For cattle operations, diseases like Theileriosis or Haemorrhagic Septicaemia can cause rapid death if veterinary attention is delayed.
+
+The goal of disease surveillance is NOT to diagnose — that is the veterinarian's role. The goal is to detect DEVIATION FROM NORMAL as early as possible, then call for professional help.
+
+Every farm worker should be able to answer these daily questions:
+  1. Are animals eating and drinking normally?
+  2. Are they moving, behaving, and vocalizing normally?
+  3. Does the flock/herd look uniform, or are there laggards and outliers?
+  4. Are production records (eggs, milk) consistent with recent trends?
+  5. Is mortality within the expected range for this age and stage?
+
+==============================================================
+SECTION 2: DAILY MONITORING — POULTRY FARMS
+==============================================================
+
+----------------------------
+2.1 MORNING CHECKS (Within 30 minutes of switch-on)
+----------------------------
+
+On entry to the shed, STOP and OBSERVE before disturbing the birds:
+  - Listen for abnormal sounds: rattling, gasping, sneezing, coughing
+  - Observe posture: birds should be alert, active, and moving toward feed/water
+  - Look for sick, isolated, or recumbent birds immediately
+
+Morning Checklist:
+  [ ] Count and record overnight mortality; remove dead birds immediately
+  [ ] Check feed consumption — compare to previous day
+  [ ] Check water consumption — meter reading or visual assessment
+  [ ] Inspect drinkers for blockage, leaks, or contamination
+  [ ] Observe flock distribution — even spread means good uniformity
+  [ ] Check ventilation — ammonia smell should be minimal (below 20 ppm)
+  [ ] Record temperature and humidity (target varies by age)
+
+----------------------------
+2.2 FLOCK BEHAVIOR INDICATORS
+----------------------------
+
+NORMAL:
+  - Flock spreads evenly across the shed
+  - Consistent feeding and drinking activity in first 2 hours after lights-on
+  - Uniform vocalization (steady low clucking in broilers; brisk in layers)
+  - Dropping uniformity: mostly brown with white urate cap; some cecal droppings (dark brown, odorous) are normal
+
+EARLY WARNING SIGNS:
+  - Huddling: birds clustering together, especially under heat sources (indicates chill or fever)
+  - Isolation: one or more birds sitting alone, eyes half-closed, fluffed feathers
+  - Head shaking or scratching at ear/eye region
+  - Wing droop: one or both wings hanging lower than normal
+  - Neck twisting (torticollis): birds looking upward or rotating neck — neurological sign
+  - Lameness: limping, unwillingness to stand
+  - Vent pasting: white or yellow material stuck around the cloaca (especially in chicks)
+
+DROPPINGS — EARLY DISEASE INDICATORS:
+  - Green watery droppings: Newcastle Disease, Fowl Typhoid, nutritional
+  - Bloody droppings: Coccidiosis (E. tenella), Necrotic Enteritis
+  - White/cream diarrhea in chicks: Pullorum Disease, Omphalitis
+  - Excessive cecal droppings mixed with normal droppings: early enteric stress
+
+----------------------------
+2.3 EGG PRODUCTION MONITORING (LAYER FARMS)
+----------------------------
+
+Track daily egg production as a percentage of hen-day production.
+
+Alert Thresholds:
+  - Greater than 2% drop in production on a single day: investigate immediately
+  - Greater than 5% drop over 3 consecutive days: consult veterinarian
+  - Shell quality changes (soft, thin, rough, misshapen): IB, Newcastle, EDS-76, calcium deficiency
+
+Egg Quality Warning Signs:
+  - Watery albumen (thin whites): Infectious Bronchitis, EDS-76, old hens
+  - Blood spots in eggs: nutritional (Vitamin K deficiency) or trauma
+  - Pale yolks: feed pigment deficiency or liver disease
+
+----------------------------
+2.4 MORTALITY TRACKING — POULTRY
+----------------------------
+
+Age-Specific Normal Mortality Rates (Reference):
+
+Broilers (0-42 days):
+  - Week 1: up to 1.0% cumulative
+  - Week 2-4: 0.1-0.15% per week
+  - Week 5-6: 0.1% per week
+  - Total acceptable mortality: less than 4% for 42-day cycle
+
+Layers (Day-old to 18 weeks):
+  - Week 1-2: 0.5-1.0% cumulative
+  - Rearing phase: 0.05-0.1% per week
+  - Total acceptable: less than 5% to point-of-lay
+
+Layers (Production phase, >18 weeks):
+  - 0.02-0.05% per day (approximately 1.5-2% per month)
+
+Broiler Breeders:
+  - Production phase: 0.04-0.06% per day
+
+Action Triggers:
+  - Any day mortality exceeds double the expected rate: investigate cause
+  - Any day mortality exceeds 0.5% of flock: call veterinarian same day
+  - Sudden increase in dead-on-arrival (DOA) birds: biosecurity or transport stress review
+
+----------------------------
+2.5 FEED AND WATER CONSUMPTION BENCHMARKS (BROILERS)
+----------------------------
+
+Water-to-Feed Ratio (normal): 1.7:1 to 2.0:1 (volume of water to weight of feed)
+
+Increased Water Consumption (greater than 2.5:1): may indicate:
+  - Excessive heat or poor ventilation
+  - High salt content in feed
+  - Renal disease (nephropathogenic IB)
+  - Enteritis
+
+Decreased Water Consumption: may indicate:
+  - Disease (infectious cause)
+  - Water line failure
+  - Water quality issues (algae, high TDS)
+  - Chilling (birds not walking to drinkers)
+
+Feed Refusal or Drop: often the FIRST sign of any disease. Monitor closely and check for:
+  - Mycotoxin contamination
+  - Off-smelling or damp feed
+  - Disease
+
+==============================================================
+SECTION 3: DAILY MONITORING — CATTLE AND BUFFALO FARMS
+==============================================================
+
+----------------------------
+3.1 MORNING OBSERVATION ROUTINE
+----------------------------
+
+When entering the barn or paddock, observe the herd BEFORE feeding to assess natural behavior.
+
+Morning Checklist:
+  [ ] Scan herd for animals that did not rise or are slow to rise
+  [ ] Check for any animals isolated from the group
+  [ ] Look for visible signs: nasal discharge, eye discharge, swollen limbs
+  [ ] Note any animals not approaching the feed trough
+  [ ] For dairy: observe gait carefully — any limping before milking session
+  [ ] Check if any animal is grinding teeth (sign of pain/abdominal discomfort)
+  [ ] Count animals if group housing — missing animals may be downer cows elsewhere
+
+----------------------------
+3.2 VITAL SIGNS — NORMAL REFERENCE VALUES
+----------------------------
+
+Temperature:
+  - Cattle: 38.0°C - 39.5°C (100.4°F - 103.1°F)
+  - Buffalo: 37.5°C - 39.5°C
+  - Calves: 38.5°C - 39.8°C
+  Action: Temperature above 40°C = fever, investigate cause
+
+Heart Rate (Pulse):
+  - Cattle: 60-80 beats/minute
+  - Calves: 80-110 beats/minute
+  Action: Rate above 100 in adults = pain or systemic disease
+
+Respiratory Rate:
+  - Cattle: 10-30 breaths/minute
+  - Calves: 20-40 breaths/minute
+  Action: Rate above 40 at rest = respiratory compromise
+
+Rumen Motility:
+  - Normal: 2-3 contractions per 2 minutes (left flank, auscultation)
+  - Absent or weak rumen sounds = rumen stasis (sign of systemic disease or bloat)
+
+----------------------------
+3.3 EARLY WARNING SIGNS IN CATTLE
+----------------------------
+
+Behavioral Changes:
+  - Separation from herd: first sign of almost any systemic illness
+  - Reduced rumination: cattle that are not chewing cud during rest periods
+  - Teeth grinding: abdominal pain, peritonitis
+  - Restlessness or kicking at belly: colic, bloat
+  - Head pressing: neurological signs (plant toxicity, Polioencephalomalacia)
+
+Physical Signs:
+  - Dull eyes, sunken eyes: dehydration
+  - Pale or icteric (yellow) mucous membranes: anemia, liver disease
+  - Gum color (normal = salmon pink): pale = anemia; blue/purple = circulatory collapse
+  - Swollen lymph nodes: Theileriosis, Tuberculosis, Abscess
+  - Sunken left flank: rumen not full, not eating; or displaced abomasum
+  - Distended left flank: bloat (frothy or free gas)
+  - Hot swollen quarter on udder: mastitis — check all 4 quarters
+
+----------------------------
+3.4 TICK MONITORING (CRITICAL IN INDIA)
+----------------------------
+
+Ticks transmit: Theileriosis, Babesiosis, Anaplasmosis, Trypanosomosis
+High-Risk Seasons: Pre-monsoon and monsoon (April-September)
+High-Risk Breeds: Crossbred and exotic cattle are more susceptible than indigenous breeds
+
+Weekly Tick Inspection Protocol:
+  - Check preferred attachment sites: ear folds, neck folds, groin, perineum, tail head, between digits
+  - Count tick burden per animal (Grade 1-5 scale: 1 = 1-5 ticks; 5 = very heavy infestation)
+  - Record and compare week-over-week
+
+Alert Signs:
+  - Sudden fever above 40°C in a tick-infested animal = Theileriosis or Babesiosis until proven otherwise
+  - Red or hemoglobin-colored urine (hemoglobinuria) = Babesiosis ("red water disease")
+  - Pale gums + fever + lymph node enlargement = Theileriosis
+
+----------------------------
+3.5 MILK PRODUCTION AND QUALITY MONITORING
+----------------------------
+
+Daily Records to Maintain:
+  - Individual cow milk yield (morning and evening milking)
+  - Total herd milk production
+  - Fat and SNF content (weekly)
+  - Somatic Cell Count (SCC) where testing is available (target: less than 200,000 cells/mL)
+
+Warning Signs:
+  - Greater than 10% drop in individual cow yield: mastitis, metabolic disease, estrus
+  - Greater than 5% drop in herd yield: systemic disease, feed change, seasonal heat stress
+  - Watery or discolored milk: clinical mastitis
+  - Clots or flakes in milk (California Mastitis Test positive): subclinical mastitis
+  - Blood in milk: traumatic mastitis or capillary rupture (fresh cow)
+
+Post-Calving Monitoring (First 30 Days):
+  - Days 1-3: Colostrum production (normal)
+  - Days 4-14: Watch for milk fever (hypocalcemia), ketosis, metritis, retained placenta
+  - Days 14-30: Watch for displaced abomasum, LDA, cystic ovaries
+
+----------------------------
+3.6 CALF MONITORING (0-3 MONTHS)
+----------------------------
+
+Calves are the most vulnerable segment of the cattle herd. Key causes of calf mortality in India:
+  - Neonatal diarrhea (scours): E. coli, Rotavirus, Cryptosporidium
+  - Pneumonia: Pasteurella, BVD, IBR
+  - Omphalitis (navel ill): bacterial infection of umbilicus
+  - Enteric colisepticemia
+
+Daily Calf Checklist:
+  [ ] Is the calf standing and alert?
+  [ ] Did it suckle or take its milk feed (record volume)?
+  [ ] Any nasal discharge, eye discharge, or cough?
+  [ ] Umbilicus condition (should be dry and non-painful by day 3-5)
+  [ ] Fecal consistency: score 1 (firm) to 4 (watery) — score 3-4 requires action
+  [ ] Dehydration check: skin tent test (pinch neck skin — should return in less than 2 seconds)
+
+Scours Severity and Response:
+  - Score 1-2: Monitor, ensure adequate milk intake
+  - Score 3: Oral electrolyte therapy (2-3 liters/day), continue milk
+  - Score 4: Immediate veterinary attention; IV fluid therapy likely needed
+
+==============================================================
+SECTION 4: BIOSECURITY — PREVENTING DISEASE ENTRY
+==============================================================
+
+Biosecurity is the most cost-effective disease management tool. It is the first line of defense before vaccination or treatment.
+
+----------------------------
+4.1 ALL-IN / ALL-OUT MANAGEMENT (POULTRY)
+----------------------------
+
+  - Never mix birds of different ages in the same shed
+  - Complete depopulation, thorough cleaning, disinfection, and rest period (minimum 14 days) before new flock
+  - Do not move equipment between sheds without disinfection
+  - Source chicks from known, reputable, disease-free hatcheries
+
+----------------------------
+4.2 FARM ENTRY CONTROLS
+----------------------------
+
+  - Footbath with effective disinfectant (e.g., 2% Sodium Hydroxide, Virkon-S) at all entry points
+  - Change footwear and protective clothing before entering animal housing
+  - Visitors log: record all persons, vehicles, and animals entering the farm
+  - Restrict entry of non-essential personnel during disease outbreaks in the region
+  - Never share equipment (syringes, needles, halters, nose rings) between farms without disinfection
+
+----------------------------
+4.3 VEHICLE AND EQUIPMENT DISINFECTION
+----------------------------
+
+  - All vehicles entering the farm (feed trucks, catchers, live-bird transporters) must use the wheel bath
+  - Spray undersides of vehicles with disinfectant
+  - Keep dedicated farm equipment; do not borrow from neighboring farms
+  - Disinfect water tanks and drinker lines between flocks
+
+----------------------------
+4.4 DEAD BIRD AND ANIMAL DISPOSAL
+----------------------------
+
+Dead Bird/Animal Disposal Options (in order of biosecurity preference):
+  1. Composting in covered bins on farm premises
+  2. Incineration
+  3. Deep burial (minimum 1.5 meters depth; cover with quicklime)
+  4. Biogas digester
+  DO NOT: leave carcasses exposed, throw in open water bodies, or allow scavengers access
+
+Mortality Records: Record date of death, shed/pen number, approximate age, and any clinical signs observed. Patterns in mortality records are a key disease detection tool.
+
+----------------------------
+4.5 WILD BIRD AND RODENT CONTROL
+----------------------------
+
+Wild birds (sparrows, pigeons, crows, migratory waterfowl) are primary vectors for:
+  - Avian Influenza
+  - Newcastle Disease
+  - Salmonellosis
+
+Wild Bird Control Measures:
+  - Screen all ventilation openings and air inlets with wire mesh (19 mm gauge)
+  - Repair all roof and wall gaps
+  - Remove feed spillage and standing water that attract wild birds
+  - Do not store feed near open drains
+
+Rodent Control:
+  - Rats and mice carry Leptospirosis, Salmonella, and damage electrical wiring
+  - Regular rodenticide placement in bait stations (tamper-proof)
+  - Seal all entry points (rodents can enter through gaps larger than 1.5 cm)
+  - Remove feed bags and waste that provide harbourage
+
+==============================================================
+SECTION 5: VACCINATION SCHEDULES — ADVISORY REFERENCE
+==============================================================
+
+Note: Vaccination schedules should be customized based on disease prevalence in your region, flock/herd history, and veterinary advice. The following are general guidelines.
+
+----------------------------
+5.1 BROILER VACCINATION SCHEDULE (Commercial)
+----------------------------
+
+Day 1 (Hatchery):
+  - Marek's Disease: HVT or Bivalent vaccine (subcutaneous injection)
+  - Newcastle Disease: B1 or LaSota strain (ocular/intranasal or drinking water)
+
+Day 7-10:
+  - Infectious Bursal Disease (IBD/Gumboro): Intermediate strain (drinking water)
+  - Newcastle Disease: B1 strain booster (if maternal antibodies are high, delay to 14 days)
+
+Day 14-18:
+  - IBD: Second dose (intermediate or intermediate plus strain, based on challenge level)
+
+Day 21-24:
+  - Newcastle Disease: LaSota or Clone 30 (drinking water)
+
+Day 28-35 (if extended cycle or threat):
+  - Newcastle Disease: LaSota booster
+
+IMPORTANT: Use vaccines as per local outbreak situation and manufacturer recommendations. Avoid vaccination during active disease outbreak — vaccinating sick birds can worsen outcomes.
+
+----------------------------
+5.2 LAYER VACCINATION SCHEDULE (Commercial)
+----------------------------
+
+Day 1: Marek's Disease (HVT + SB1, or Rispens)
+Day 5-7: Newcastle Disease (B1 or Clone 30, ocular/nasal)
+Day 10-14: IBD (Intermediate strain)
+Day 18-21: IBD (second dose, intermediate/intermediate+)
+Day 28: Newcastle Disease (LaSota)
+Day 35: Infectious Bronchitis (H120 strain, drinking water)
+Day 42-45: Newcastle Disease (LaSota booster)
+Day 56-63: Fowl Pox (wing web, live virus vaccine)
+6-8 Weeks: Marek's Disease second dose (if Rispens protocol)
+8-10 Weeks: Infectious Bronchitis booster (H52 or local variant)
+10 Weeks: Newcastle Disease (LaSota) and IB combined (if available)
+12-14 Weeks: Avian Encephalomyelitis (AE vaccine, if available)
+14-16 Weeks (Pre-lay): Newcastle Disease (killed oil-emulsion), IB, EDS-76, Fowl Cholera (as per local disease prevalence)
+16-18 Weeks: Newcastle Disease killed oil-emulsion booster
+
+Production Phase: Newcastle Disease and IB booster every 8-10 weeks as per flock serology monitoring.
+
+----------------------------
+5.3 CATTLE VACCINATION SCHEDULE
+----------------------------
+
+Foot and Mouth Disease (FMD):
+  - Calves: First dose at 4 months of age; second dose 1 month later
+  - Adult animals: Every 6 months (April-May and October-November)
+  - Vaccine: Polyvalent FMD vaccine (O, A, Asia-1 types)
+
+Haemorrhagic Septicaemia (HS):
+  - Annual vaccination: April-May (before monsoon season)
+  - Calves: Vaccinate at 6 months; revaccinate at 12 months, then annually
+  - Vaccine: Oil-adjuvanted HS vaccine (longer protection)
+
+Blackquarter (BQ):
+  - Annual vaccination: April-May
+  - Calves: 6 months of age; revaccinate annually
+  - Combined BQ + HS vaccine available and preferred
+
+Brucellosis (Female Calves Only):
+  - Vaccination of female calves between 4-8 months age with Brucella abortus S19 vaccine
+  - This is a government-controlled program — vaccine to be administered by authorized veterinarian only
+  - Male calves and adult cattle should NOT be vaccinated
+
+Theileriosis (Exotic/Crossbred Cattle in Endemic Areas):
+  - Theileriovax (Theileria annulata schizont vaccine) — consult state veterinarian for availability
+
+==============================================================
+SECTION 6: DISEASE REPORTING PROTOCOLS
+==============================================================
+
+----------------------------
+6.1 NOTIFIABLE DISEASES IN INDIA
+----------------------------
+
+Under the Prevention and Control of Infectious and Contagious Diseases in Animals Act, 2009, the following diseases must be immediately reported to the nearest Veterinary Officer:
+
+Poultry:
+  - Avian Influenza (all strains)
+  - Newcastle Disease
+  - Duck Plague (Duck Virus Enteritis)
+  - Marek's Disease (in cases of unusual spread)
+
+Livestock:
+  - Foot and Mouth Disease
+  - Anthrax
+  - Haemorrhagic Septicaemia
+  - Blackquarter
+  - Rinderpest (eradicated but must report suspect cases)
+  - Bovine Spongiform Encephalopathy (BSE) — suspect
+  - Glanders (equines)
+  - Brucellosis
+  - Rabies
+
+Small Ruminants:
+  - Peste des Petits Ruminants (PPR)
+
+----------------------------
+6.2 HOW TO REPORT
+----------------------------
+
+Step 1: Contact the nearest government veterinary hospital or Livestock Aid Centre
+Step 2: Contact the District Veterinary Officer (DVO) directly for rapid-onset mortality
+Step 3: In cases of suspected HPAI (Bird Flu) or mass die-off: Call the State Livestock Disease Diagnostic Laboratory (SLDL) and State Animal Husbandry Department immediately
+Step 4: Do not move animals off the premises until clearance from veterinary authority
+
+IVRI Emergency Contact: Indian Veterinary Research Institute, Izatnagar, Bareilly — 0581-2301318
+
+National Disease Reporting: NADRES (National Animal Disease Reporting System) — reportable disease data submitted by veterinarians via mobile app or web portal.
+
+----------------------------
+6.3 WHAT TO REPORT
+----------------------------
+
+When reporting, provide:
+  1. Farm location (village, district, state)
+  2. Species affected and approximate numbers
+  3. Age group and production stage
+  4. Date of first signs observed
+  5. Number sick vs. total; number dead vs. total
+  6. Vaccination history
+  7. Any recent changes: new animals, feed, visitors, equipment
+  8. Clinical signs observed (describe in plain language)
+  9. Any treatment already given
+
+==============================================================
+SECTION 7: RECORD KEEPING FOR DISEASE SURVEILLANCE
+==============================================================
+
+Good records are the foundation of farm biosecurity and disease surveillance. They allow you to detect trends that are invisible day-to-day.
+
+Minimum Records to Maintain:
+
+Poultry Farms:
+  - Daily mortality (by shed)
+  - Daily feed consumption (by shed)
+  - Daily water consumption (by shed)
+  - Weekly body weight samples (minimum 50 birds per shed)
+  - Egg production (layers only — daily)
+  - Vaccination record (date, vaccine name, batch number, route, operator)
+  - Medication record (date, drug, dose, route, duration, veterinary prescription)
+  - Litter condition score (weekly)
+
+Livestock Farms:
+  - Individual animal records: ID, breed, age, weight, vaccination history
+  - Milk production (individual cow, daily)
+  - Reproduction record: heat dates, AI dates, pregnancy diagnosis, calving
+  - Health record: illness episodes, treatment given, veterinarian name
+  - Tick control: treatment dates, product used, animals treated
+  - Mortality: date, animal ID, probable cause
+
+==============================================================
+END OF DISEASE DETECTION AND SURVEILLANCE GUIDE
+==============================================================
+
+Remember: The best disease control is prevention. Biosecurity, timely vaccination, and daily observation are more valuable than the best treatment after an outbreak. When in doubt, call your veterinarian early. Early treatment costs a fraction of late treatment, and no treatment can reverse the losses from a full-scale outbreak.

@@ -1,0 +1,1011 @@
+﻿Revised August, 2015
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+General Guidelines for
+Biosecurity at
+Central Poultry Development Organizations
+(Basic Tenets can be applied to State Poultry Farms and Private Poultry Farms)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Department of Animal Husbandry, Dairying & Fisheries Ministry of Agriculture and Farmers’ Welfare Government of India
+2015
+
+
+
+
+
+
+TABLE OF CONTENTS
+
+
+Section No.
+	Contents
+	Page No.
+	A.
+	Executive Summary
+	1-2
+	B.
+	Indicative Quick Checklist for Implementing an Effective
+Poultry Biosecurity Plan
+	3-4
+	C.
+	Major Routes for Disease and Pathogen Transmission
+	4
+	D.
+	Biosecurity and animal welfare:
+	5
+	I
+	Farm Location and Design
+	5-6
+	II
+	Restricted Access to Birds
+	6-7
+	(i)
+	Movement restriction in general at farm level
+	7
+	(ii)
+	Movement restriction at poultry shed level
+	7-8
+	(iii)
+	Restrict vehicle entry in the farm area
+	8
+	(iv)
+	Restriction to visitors
+	8-9
+	(v)
+	Restriction to farm workers
+	9
+	(vi)
+	Restricting carriers of transmission of infection in the farm
+	9-10
+	(vii)
+	Multiple Species rearing and precautions
+	10
+	III
+	Isolation and quarantine of new birds
+	10
+	IV
+	Cleaning and Sanitation
+	11
+	(i)
+	Cleaning and disinfection of farm equipments
+	11
+	(ii)
+	Cleaning and disinfection of poultry houses
+	12
+	
+
+	(a) Complete or terminal house cleaning
+	12
+	
+
+	(b) Partial/concurrent house cleaning
+	12
+	V
+	Personnel hygiene
+	12-13
+	VI
+	Hygienic disposal of poultry manure
+	13
+	VII
+	Disposal of dead birds and other bio/ biomedical wastes
+	13-14
+	VIII
+	Feed safety
+	14-15
+	IX
+	Period of rest or rearing of single age group
+	15
+	X
+	Medication/ vaccination of birds
+	16
+	XI
+	Flock profiling
+	16
+	XII
+	For high risk/ Alarming situation
+	16
+	XIII
+	Documentation and Record keeping (Indicative List)
+	17
+	XIV
+	General considerations for collection of infective/ suspected
+material for laboratory testing
+	17-18
+	Appendices
+	Appendix I:
+	Entry conditions for visitors to poultry shed and/or range areas and Model Format for record/ log keeping of visitors
+	19
+	Appendix II:
+	Water Quality: Do’s and Don’ts of Water Management and
+Water Sanitation record
+	20
+	Appendix III:
+	Illustrative formats for concurrent biosecurity monitoring/ in-
+house auditing
+	21-22
+	
+
+General Guidelines for Biosecurity at Central Poultry Development Organizations
+Executive Summary
+Biosecurity is an integrated approach encompassing policy and regulatory frameworks to analyze and manage risks in the areas of animal health and food safety, including associated environmental risk. The liberalization of global trade in agriculture since 90’s has brought in many challenges apart from opening up new avenues for growth and diversification. Pests do not recognize geographical boundaries and liberalization of trade has opened new routes for animal diseases and pests through import of animal (livestock, poultry) and animal products. Many of the pests have a potential to establish and to cause serious economic losses.
+2. An integrated biosecurity programme is an application on logical and sound principles specific to an enterprise, monitoring of disease status, evaluation of ongoing poultry farm operations on continuous basis with an objective to contain the diseases at bare minimum level.
+3. The farms should strive to maximise the benefits achievable through effective biosecurity and to be consistent with HACCP (Hazard Analysis, Critical Control Points) principles which can be developed easily. For this, the CPDO&TI(SR), Hessarghatta may even design training modules and hold workshops based on demand from the States.
+4. After lessons from Avian Influenza outbreaks at CPDO(ER), Bhubaneswar and CPDO&TI(SR), Hessarghatta and many other outbreaks across the country both in public and private farms, we must implement, as far as possible, an impeccable biosecurity plan to prevent any future disasters. These guidelines are proposed to act as roadmaps for keeping a close vigil and maintenance of biosecurity. They are structured under following heads:
+   1. Farm Location and Design
+   2. Restricted Access to Birds
+      1. Movement restriction in general at farm level
+      2. Movement restriction at poultry shed level
+      3. Restrict vehicle entry in the farm area
+      4. Restriction to visitors
+      5. Restriction to farm workers
+      6. Restriction to carriers of transmission of infection in the farm
+      7. Multiple Species rearing and precautions
+   3. Isolation and quarantine of new birds
+   4. Cleaning and Sanitation
+      1. Cleaning and disinfection of farm equipments
+      2. Cleaning and disinfection of poultry houses
+         1. Complete or terminal house cleaning
+         2. Partial/concurrent house cleaning
+   5. Personnel hygiene
+   6. Hygienic disposal of poultry manure
+   7. Disposal of dead birds and other bio/ biomedical wastes
+   8. Feed safety
+   9. Period of rest or Rearing of single age group
+   10. Medication/ vaccination of birds
+   11. Flock profiling
+   12. For high risk/ Alarming situation
+   13. Documentation and Record keeping
+   14. General considerations for collection of infective/ suspected material for laboratory testing
+   15. Appendices
+
+
+5. An indicative checklist for implementing an effective poultry biosecurity plan is also added for quick reference. Immediate report of abnormal mortality in poultry stock at following e-mail address:-
+ahc-dadf@nic.in / rs.rana9@nic.in / jspf-dadf@nic.in / jcpoul@nic.in / hansrajkhanna@yahoo.com / sujit.nayak@nic.in
+
+
+6. Nearest RDDL should also be informed to collect samples / material as per their norms and protocols for disease diagnosis both for on spot with the help of Kits and also for onward transmission to NIHSAD, Bhopal.
+7. Immediately stop sale-purchase / inflow-outflow of all poultry products, feed or feed ingredients, etc, if disease is even suspected or diagnosed in any shed or farm till final test results of disease diagnosis is done and regarding Notified diseases / Avian Influenza after confirmation from designated / NIHSAD Bhopal.
+8. Disposal of dead bird/s in a bio-secured manner and for Notified diseases as per the Action Plan issued by DADF, GOI.
+9. If any mortality reported in wild bird / water birds / crows, etc in farm campus the Post Mortem of such birds must not be conducted at all in farm area. The Department and the RDDL should be informed immediately and the RDDL should be requested to collect the samples as per their protocol for diagnosis or for onward transmission to NIHSAD, Bhopal for diagnosis, as per the requirement to be decided by the competent authority.
+10. If Avian Influenza or Notified disease is suspected or confirmed at any farm demobilize the staff of the farm with immediate effect.
+11. Workshops may be conducted by all the CPDO’s and State Farms on Bio-security and Action plan on Avian Influenza-2015 (also available on Department website : www.dahd.nic.in under the link Animal Health-Bird Flu) forwarded by the DADF with all staff of CPDO & CPPTC inviting speakers from the Departments of Poultry Science, Pathology, Medicine, Epidemiology, Veterinary public health from State Veterinary University / College and also from RDDL from time to time. In such workshops the State Government officials may also be invited.
+12. Whenever there is a modification or updation of the General Guidelines of Biosecurity or the Action Plan on Avian Influenza such workshop is to be conducted within 15 days from the date of Notification or issuance.
+13. Further, guidelines may be modified according to other species and reference can also be made to the checklist for compartmentalization. The same is available at department’s website.
+14. The Prevention and Control of Infectious and Contagious Diseases in Animals Act, 2009 may also be seen for any necessary steps or measures required for compliance.
+-xxxx-
+Indicative        Quick        Checklist        for        Implementing        an        Effective        Poultry Biosecurity Plan
+Implementing any of these suggestions will reduce the risk of disease entry. Each additional step implemented will further reduce biosecurity risks.
+1. Secure perimeter; Keep “restricted” signs posted at drive entrances
+2. No trees or dense foliage around sheds, no roosting site for wild birds
+3. Restrict entry to essential personnel and record entry.
+4. Keep poultry houses locked; fasten from inside while inside.
+5. Provide boots and coveralls for staff and visitors for each shed.
+6. Staff should change into dedicated/disposable boots and coveralls upon entering each different shed. Clean footbaths may be appropriate within a shed if changed regularly.
+7. When caring for flocks, the resident flock manager should keep clothing (including shoes, boots, hat and gloves) separate from those worn off the farm.
+8. After caring for the flock, change clothes completely and wash hands and arms before leaving premises.
+9. Flock manager and other caretakers should not visit any other poultry flocks.
+10. If possible, provide show facilities for visitors.
+11. Remove poultry mortality daily. Store or dispose them off by an approved method.
+12. Ensure staff and visitors are aware of the dangers of raising or visiting other avian species and their contact with your flock.
+13. Essential visitors such as owners, meter readers, service personnel, fuel and feed delivery drivers, and poultry catchers and haulers must wear protective outer clothing, including boots and headgear, before being allowed near the flocks.
+14. Monitor vehicles entering premises for poultry pickup or delivery, feed delivery, fuel delivery, etc., to determine if they have been scrubbed down and the undercarriage and tyres spray-disinfected before entering.
+15. Minimize entry of equipment, supplies, etc. and take appropriate precautions such as disinfection, removal from shipping boxes, etc.
+16. Clean and disinfect all coops, crates and other poultry containers or equipment before and after use.
+17. Maintain a strong vector control program for insect, mammalian and avian vectors. Maintain bait stations (bait stations must be numbered and a map kept of their location; bait stations must be placed at regular intervals around the sheds), clean up feed spills, prevent entry by wild animals (rats, birds, insects) or pets (dogs, cats). Use screens in windows, air inlets, doors feed bin exhausts etc.
+18. Maintain minimal vegetation and no debris around poultry facilities to lessen food and shelter opportunities for vectors.
+19. Ensure that feed, water and bedding sources are free from infectious agents.
+20. Review your biosecurity plan and flock health program, including vaccination protocols, with veterinarian on a regular basis.
+21. Sick or dying birds should be sent to a state laboratory for diagnosis. Commercial growers should contact their flock supervisor.
+
+
+Major Routes for Disease and Pathogen Transmission
+
+
+1. Poultry : transfer of birds from production area to other production area and dead bird disposal
+2. Other animals : wild birds, feral and domestic animals, including other livestock and pets, insects, rodents—rats/mice etc., domestic birds
+3. People: farm personnel and family members living on site; contractors, maintenance personnel, neighbours, serviceperson, visitors; disease can be transmitted by, for example, hands, boots, clothing, dirty hair etc.
+4. Equipment: Feeders, waterers, nests, debeakers, vaccinators, sprayers, burners etc.
+5. Vehicles: Feed Trucks, Product & waste collection vehicles
+6. Air : transmission as an aerosol or dust
+7. Water supply: water supplies may become contaminated with faeces from contact with avian or other animal species
+8. Feed: feed may be contaminated by the raw materials used, post-production and during transport, or by exposure to rodents and birds on the property. Bacteria and mould in poor quality or damaged feed may also be a concern.
+An integrated Biosecurity programme must be regarded as an application on logical and sound principles specific to enterprise, monitoring of disease status, evaluation of ongoing poultry farm operations on continuous basis with an objective to contain the diseases at bare minimum level.
+The location and structural biosecurity principles are to be followed at the very beginning, while setting up the farm. Operational biosecurity measures in general revolve around three basic principles viz:
+   1. isolation,
+   2. traffic control and
+   3. sanitation
+Biosecurity and animal welfare:
+
+
+It is of utmost importance that the birds must be free from stress for which overcrowding should be avoided, appropriate ventilation and temperature must be regulated to make the environment ambient. Cleanliness, good quality feed/ premix and potable drinking water must be ensured. These basic management measures will allay immunosuppression due to stress making the birds vulnerable to pathogens.
+
+
+Biosecurity also ensures animal welfare to a great extent as observed by OIE also. Biosecurity means a set of measures designed to maintain a flock at a particular health status and to prevent the entry (or exit) of specific infectious agents. Biosecurity programmes should be designed and implemented, commensurate with the best possible flock health status and current disease risk (endemic and exotic or transboundary) that is specific to each epidemiological group of birds and in accordance with relevant recommendations found in the Terrestrial Code (OIE document).
+
+
+Outcome-based measurable parameters may be incidence of diseases, metabolic disorders and parasitic infestations, mortality, performance etc.
+
+
+1. Farm Location and Design:
+
+
+Poultry farm maintaining the valuable germplasm should ideally be located at a well isolated site away from other farms. It should be located away from water bodies that can be source of water for wild birds and animals and these wild birds and animals and these wild birds ultimately may become source of infection to birds maintained in the farm. Ideally it should be located at least 1-2 km away from other commercial facilities.
+
+
+   1. The perimeter of the farm and hatchery must be secured with boundary wall and other measures. The production area must have a perimeter fence or otherwise well defined boundary (e.g. vegetation) establishing a clearly defined biosecurity zone.
+   2. Major critical points to ensure biosecurity must be displayed in regional and local languages at every different species unit.
+   3. Sign boards indicating ‘Biosecurity area’, ‘visitors are not allowed’ are to be displayed at breeding stocks and hatcheries of each species.
+   4. The farm should be designed in such a way that it has sufficient ventilation and should have access to sunlight. This will be necessary for reducing the build-up of infectious agents in poultry house apart from reducing the stress of accumulated gases.
+   5. Direction of long axis: This depends on geographical location of the farm. If the farm is located in cold region then the direction of long axis should be North-South. If the farm is located in hot and humid condition then it should be East-
+West, if the farm is located in region with very high temperature in summer months, then long axis should be South-East.
+   6. Overhanging branches of trees over run-area of poultry like turkey, ducks etc. should strictly be pruned/ removed to avoid falling of droppings of feral birds. Ideally no dense foliage and trees should be there.
+   7. Ensure bird-proofing nets in all units to prevent entry of small feral birds into sheds
+   8. Cover any open drains to avoid attraction of wild animals
+   9. There should be no roosting site for wild birds
+   10. There should be proper drainage facility and water should not stagnate. The production area should be adequately drained to prevent accumulation and stagnation of water likely to attract other birds, especially in the areas around sheds and range areas.
+   11. Houses should be provided with concrete floor for easy and proper cleaning.
+   12. Foot dips of uniform size must be provided at the entry of all the poultry sheds and preferably use 50% lime powder + 50% Bleaching powder
+   13. Ideally, lay out of the farm should be such that at farm entry point brooder shed should be followed by shed for growers and lastly for adult birds. Similar pattern should be followed for drainage system also from brooding to adult shed.
+   14. Hatchery should be located at least 500 ft. away from other sheds.
+   15. Bird reflectors may be used alongwith high frequency sound devices to divert the birds away by sound waves
+   16. From biosecurity point of view, distance between two different sheds of same type should be 30 ft. and of different type should be 100ft.
+   17. Roads should be of concrete material so that transport of organisms with shoes and tyres can be reduced.
+   18. Facility for post-mortem examination near to the incinerators and separate laboratory with suitable facilities and manpower are also required for regular monitoring and surveillance of diseases at the farm level.
+   19. There should be single window system for sale of all poultry & poultry products with sale counter at gate. Client and their vehicle should not be allowed in any case to visit farm or hatchery.
+   20. The Sale Counter for the sale of poultry & hatchery products should be arranged at the entrance gate to avoid entry of commercial vehicle in the campus.
+   21. One demonstration shed may be constructed near the laboratory side for demonstration regarding poultry and other avian species to the poultry farmers and other trainees.
+
+
+2. Restricted Access to Birds:
+
+
+It means restricting access to a farm by employing fences and enclosures which creates a barrier between clean areas where poultry are kept and outside environment and it is the most important biosecurity measures for restricting source of infection away from farm and even from the infected farm to other non-infected farm. Movement restriction should be
+applied both at farm as well as at shed level. CCTV, if required, in the whole campus to monitor & supervise the activities in the campus is recommended.
+
+
+1. Movement restriction in general at farm level:
+
+
+   1. As far as possible, separate personnel must be made available to each species of poultry to avoid frequent movement between different species units.
+   2. All the farms should be provided with fence to protect the entry of persons, vehicles, animals etc.
+   3. Entrance should be forbidden to everyone. The poultry farms can only be entered with the permission of the farm manager or appointed responsible.
+   4. Permit the access on the farm only to those people that are necessary on the farm e.g. personnel, veterinary services.
+   5. It should be kept in mind that visiting two different farms within 24 hr should be avoided. If necessary, showering in between visits is highly recommended. Similar instructions should be applied to the team of persons who catch and load poultry.
+   6. To improve control on the access of the farm, there should only be one entrance and one exit. The road used for such personnel should be cleaned and disinfected daily.
+   7. At the entry point of the farm, provide boot and wheel dip baths filled with an effective disinfectant. It should be ensured that the baths are renewed on daily basis.
+   8. Farm/ production area entry-point: there should be facility for changing room with hand washing facility (if required, showering facility may be provided).
+   9. On clean side, there should be facility to put on clean clothes and boots and after use they should be left out in the changing room, and while exiting, put on the clothes which the individual was wearing before the entry into the changing room.
+
+
+2. Movement restriction at poultry shed level:
+
+
+   10. Keep the shed locked at all times.
+   11. Footwear dedicated for that shed, Foot-dips and handwash at entrance of every shed should be provided for. If felt necessary, farms may have higher norms, like having change room and shower facility even at shed level.
+   12. It should be ensured that all materials, drugs, vaccines etc., are cleaned and disinfected and they should be have passed a quarantine storage period of 10 days in a especially designed storage room which should be cleaned regularly.
+   13. All material used in farm operations should be cleaned and disinfected before and after use.
+   14. Every shed should be provided foot dips at entrance and exit and it should be ensured that the dips are renewed on daily basis.
+   15. Fogging of the populated sheds should be a part of a prevention programme to minimize the risk of contamination. The disinfectant should be used with right dilution as per manufacture’s direction.
+
+
+3. Restrict vehicle entry in the farm area:
+
+
+Since many poultry diseases are known to be spread by transportation and thus it is of paramount importance to clean and disinfect vehicles before entry into farm premises.
+
+
+   16. Provision of wheel dip and walk way for personnel is required at the entrance
+   17. Person doing cleaning and disinfection of vehicles should wear clean and disinfected clothing.
+   18. It should be ensured to remove all dry litter, straw, mud from all surfaces, wheel arches etc.
+   19. Remove all equipment from the vehicle that can be dismantled and cannot be cleaned on the spot.
+   20. For cleaning purpose, use a powerful car and truck cleaning product to soak all surfaces. Attention should be paid to wheels, ceilings; lifts etc and then leave it for 15 to 30 minutes.
+   21. Clean the removed equipment and other tools of vehicles with a proper detergent. After soaking for some time, rinse all surfaces and equipments under high pressure. It should be ensured that no organic material remain on the vehicle with detergent safe for the vehicle and effective at all temperatures.
+   22. During disinfection operations, disinfect all surfaces inside and out with the disinfectant. Work your way down from the top to bottom and attention should be paid to cracks and wheels. It should also be ensured that underside of the vehicle also get disinfected.
+   23. Then move the vehicle to a clean and disinfected place to let it drain and for drying.
+   24. Apply restrictions on the movement of driver.
+   25. All feed delivery vehicles should be kept clean before loading the feed
+   26. Transport the feed first to the young flock and then to the older flock.
+   27. Drivers not to enter poultry houses under any circumstances.
+   28. Drivers to spray soles of shoes and floorboard of vehicle with disinfectant after every delivery.
+   29. Wash hands with disinfectant solution before leaving for another shed.
+
+
+4. Restriction to visitors:
+   1. Allow only essential people to contact the poultry kept in the farm.
+   2. Build a separate demonstration area and birds kept there should not later be stocked with shed-house birds.
+   3. If visitors have their birds of their own do not allow them to come near to the birds.
+   4. Allow entry of the visitors in essential situation after taking all biosecurity measures at farm entry as well after entry into the shed. These measures should include footbaths at the entry of farm and then at shed level, every visitor may change clothes/cap/footwear, (go through shower-in policy if required) and wear clean and disinfected clothes/ cap and boots. Specific coveralls and footwear for visitors are also to be provided.
+
+
+5. Restriction to farm workers:
+
+
+   5. At the outset train the farm workers about the basic tenets of biosecurity
+   6. Allow only the employees of that farm to handle the birds on a day-to-day basis.
+   7. Make sure that employees should not have a commercial or private bird operation as they may transmit disease to the birds kept at the farm.
+   8. Do not allow farm workers to visit any other poultry farm or places where birds are kept. Similarly, the farm workers should not be allowed to visit the bird shows or bird fairs.
+   9. Workers engaged in rearing of one poultry species should not be allowed to visit other farms where different poultry species is being reared.
+   10. All the farm workers should be allowed in the farm after going through all the biosecurity measures as mentioned for visitors.
+   11. All the farm workers must put off their clothes and boots after finishing their jobs and should go through shower-out policy.
+   12. All workers must wear clean and disinfected clothes during farm operations.
+   13. Frequent washing of hands with detergent or soap with sufficient contact time should be encouraged in day to day farm operations.
+
+
+6. Restricting carriers of transmission of infection in the farm:
+
+
+Some of the mechanical carriers of infection should be restricted to enter into the farm building.
+   14. Prevent the entry of introduction of new birds to a previously infected poultry house at least for 3 weeks after clean out.
+   15. Wild birds – resident fowl or migratory birds – should have no contact with the flock through the use of screens or overlying nets.
+   16. Bird reflectors/ solar fencing may be considered.
+   17. There should be insect control programme in place since flies of several species are important in transfer of certain pathogens.
+   18. Rodents have also been implicated in the transfer of infection. Therefore, control and preventing their movements between houses on a single premise are essential.
+   19. Steps should be taken to prevent the accumulation of stagnant water. Since such water bodies can serve as source of water to migratory waterfowl and shore birds.
+   20. Limit sources of food for wild and free flying birds.
+
+
+7. Multiple Species rearing and precautions:
+
+
+The specific guidelines for keeping multiple species are to be further deliberated. However, the following thumb rules may be kept in mind:
+
+
+   21. Poultry units should be distantly located or well bifurcated from each other.
+   22. Separate hatchery for each species may be considered.
+   23. Provision of separate feed storage facility at units of different species may also be considered.
+   24. Equipment meant for different species of birds should be separate.
+   25. Provision of all-round spray system of disinfectants at the entry of each species units
+   26. Exclusive infrastructure facility is essential to rear each species separately and to follow all-in all-out system
+
+
+3. Isolation and quarantine of new birds:
+
+
+Isolation and quarantine of new birds is necessary in a separate place and enclosure so that infectious agents which may be there in the newly introduced birds may be detected before introduction of these birds with other flocks.
+
+
+   22. If the birds have been used for a show or a fair, keep them isolated from rest of the flock for 21 days after the event and observe for signs of any disease.
+   23. New birds should be kept separate from old stock for at least 21 days and they should be observed for any disease symptoms and samples (blood, faecal, swabs) should be collected for thorough investigation before mixing to the already existing old stock.
+   24. It should be ensured that shed houses birds of same age group, even if farm consists of birds of different age group.
+   25. Pest proofing is recommended before restocking
+4. Cleaning and Sanitation:
+
+
+General Points
+   26. Effective cleaning and disinfection is an essential component of good hygiene and thus one of the key biosecurity measures for disease control. This should be carried out from time to time to reduce the build –up of pathogenic organisms and a disinfectant known to be effective against a large range of pathogens should be used regularly for prevention of ingress of the infection. It should address the disinfection of materials.
+   27. Approved disinfectants like chlorine dioxide and peracetic acid for disinfection or sterilization may be used.
+   28. Farm equipment entering the farm, cleanliness of personnel on the farm, disposal of dead birds and poultry manure and sanitizing the drinking water should be paid attention.
+   29. The area around poultry sheds should be kept clean from vegetation, food waste, plastic bottles, glass bottles, tins or drums.
+   30. Water Testing should be done at regular intervals.
+   31. Proper ventilation with adequate air flow in all sheds is recommended.
+   32. Regular testing of Microbial load – at different places is recommended
+
+
+1. Cleaning and disinfection of farm equipments:
+
+
+   1. Feeding pans and drinking equipment used in the shed area should be kept clean daily.
+   2. Scrubbing should be done and then application of hot water followed by disinfection with an effective disinfectant.
+   3. Make sure all equipments that had contact with the poultry, lawn, garden and poultry equipments are washed and disinfected before taken to another place. The same should be followed where some equipment are to be brought into the farm.
+   4. Keeping the shed equipments clean prevents pathogens from accumulating and causing health problems. Cages, if there, should be disinfected at regular intervals. They may be left in the sun and then they may be disinfected but it is essential to remove manure before disinfecting cages. Disinfectant will not work if there is still manure present on items.
+   5. Newly purchased equipments should be thoroughly washed with soapy water or otherwise should be disinfected before use.
+   6. Newly purchased cages should also be subjected to washing with soapy water or should be disinfected.
+   7. Poultry equipments such as egg crates, cages, shovels or rakes, should not be shared between family or neighbouring farms. Plastic or metal equipment may be preferred over wooden material.
+   8. Clean feeder and waterers daily.
+2. Cleaning and disinfection of poultry houses:
+
+
+House cleaning is the most arduous phase of bio-security and it can be divided in two
+types:
+
+
+1. Complete or terminal house cleaning: This is practiced after removal of flock and the following points should be given consideration.
+
+
+   1. After removing the flock, remove the left over feathers, droppings, litter etc. It should be then followed by complete disinfection of the shed. Firstly the house should be fumigated and then it should be subjected to an effective disinfection. Keep the shed empty for a minimum period of 10 days before arrival of new flock.
+   2. Before introduction of new flock it should be ensured that there should be no extra moisture in litter, otherwise chances of fungal growth are more.
+
+
+2. Partial/concurrent house cleaning: This type of cleaning is done while the birds remain inside the house with following considerations:
+
+
+   3. Thoroughly clean the fans and it should be a regular feature.
+   4. Sweep the house from top to bottom.
+   5. Remove the caked litter from the house, or forking with some drying agent.
+   6. Place the clean litter in the house, or top dressing may be done.
+   7. Regularly disinfect the brooder guards, feeders, jugs, drinking water containers using iodophores and 5% sodium hypchlorite. Other chemical effective like sodium dodecyl sulphate, formalin and iodine compounds can also be used.
+   8. Regularly sanitize the drinking water. Drinking water for poultry, as well as cooling water used in poultry sheds, must meet appropriate water standards. Water that does not meet the standard must be treated (e.g. chlorination, iodine) to ensure that the standard is met.
+   9. Proportion of disinfectant added must be displayed at the entrance of each shed/ hatchery.
+
+
+5. Personnel hygiene:
+
+
+   33. Specific over all clothing for employees must be provided.
+   34. Wash hands thoroughly before and after entering the farm area. Washing of hands can be done with soap or detergents with contact time of 10 minutes.
+   35. Wear clean clothes or coveralls while working with birds in the farm.        The clothes should be washable with laundry detergent. Preferably for this purpose
+detergents or oxidizing agents (sodium hypochlorite dilute to give 2-3% available chlorine @ 2% with contact time of 10 minutes) and alkali (sodium hydroxide 2% solution or sodium carbonate anhydrous 4% solution with 10-30 minutes contact time) can be used, especially at the entrance on foot mats to clean the shoes gumboots and other items. Dirty clothes should be washed with detergent and hung out to dry in the sun. Quaternary-ammonium salts can be used for the treatment of walls, floors, ceilings and equipment, Cresolic-acid 2.2% solution or Synthetic phenols 2% solution can be used for the treatment of floors.
+   36. Since disease in poultry can be transmitted easily through boots, therefore, boots should be used after cleaning and disinfection. The best approach would be disinfecting footwear before and after working with birds or keeping a separate pair of shoes to work around birds and changing into other shoes when leaving the premise. The person should use coveralls, which can be removed and cleaned when leaving the premise. Boots should be washed in chlorinated water or with soapy water. Also scrub boots while entering and existing.
+   37. When the care personnel needs to attend to chickens or other poultry (e.g. collecting eggs, feeding or watering, change of bedding or repair of fencing material), a change of clothes/ boots is required.
+   38. Medical check up of all workers coming in contact with livestock and feed should be done.
+
+
+6. Hygienic disposal of poultry manure:
+
+
+   39. Use of poultry manure and other poultry by-products such as feathers in agriculture and aquaculture as fertilizer and in untreated form as food for pigs and fish may serve as source of infection as many viruses may not be deactivated for several weeks inside the organic matter such as faeces.
+   40. Poultry manure should be left undisturbed for at least 90 days and then can be used as fertilizer. High risk farming practices such as use of contaminated water and recycling of poultry waste without treatment should be stopped.
+   41. Effluent generated from poultry processing of manure can also be disposed off after treatment with acids such as hypochloric acid 2% or citric acid 0.2% or with alkali treatment such as Sod. Hydroxide 2% or sodium carbonate anhydrous 4%.
+
+
+7. Disposal of dead birds and other bio/ biomedical wastes:
+
+
+Dead birds should be removed quickly and properly, to ensure no contact with other birds which will be helpful in removing the source of infected foci to poultry as well as to handlers. The best way to dispose off dead birds is by rendering, burial or incineration.
+Other wastes generated are: Litter waste – Shed cleanout with poultry manure and bedding materials, hatchery waste, Biomass wastes like fallen tree leaves, twigs etc.,
+biomedical wastes like syringe, needle, swabs, empty vials and other used chemical containers.
+Incineration, rendering, boiling, fermentation, composting, enzyme or sodium hydroxide treatment, autoclaving are some of the methods of destruction which may be followed.
+The Bio-Medical Waste (Management & Handling) Rules, 1998 under Environment (Protection) Act, 1986 should be referred for appropriate disposal of some biomedical wastes.
+
+
+
+
+8. Feed safety:
+Feed Safety Objectives make use of principles that relate to animal health, farm practices and human food safety objectives for products of animal origin. Particular emphasis should be on the types of feed used in relation to feed borne animal diseases caused by infectious and chemical agents and on the relationship between animal feed and zoonotic foodborne diseases. To produce safe animal feed, a pro-active control system is advocated. This approach has been very successful in relation to human food and involves the use of Good Manufacturing Practices (GMP) and the Hazard Analysis Critical Control Point (HACCP) concept as the main tools.
+A critical control point in a feed production process can be defined as a location, practice or procedure where hazards can be minimised or reduced to an acceptable level. Therefore, the identification of CCP’s in a feed production process is an important step in the control of such hazards. There are various means for controlling potentially hazardous bacteria and chemical agents in feed production processes. Suitable control of hazardous chemical agents can be achieved by setting appropriate criteria for raw materials. Hazardous microorganisms can be inactivated by e.g. heating or irradiation, while acidification of feed and use of controlled storage conditions, etc. may also be of value. In some cases stabilisation of microbial levels i.e. prevention of growth, may be sufficient. Stabilisation can be achieved by adjusting the formulation to give a low aW (water activity), pH, etc. Such measures not only stabilize bacterial populations, but can also reduce the numbers of any pathogens present. In nutshell, there are several options to produce safe animal feed. They comprise of: setting requirements (criteria) for the raw materials used; setting criteria for processing (e.g. heat treatment); composition of the feed material (e.g. pH, aW); setting storage conditions etc.
+Feed and feed ingredients business operators and other relevant parts of industry should practice self-regulation to secure compliance with required standards for procurement, handling, storage, processing, distribution and use. Operators have full responsibility for implementing systems for quality control. The Competent Authority should verify that process control systems and safety standards achieve all regulatory requirements.
+Some examples of attaining Feed Safety Objectives are:
+   42. Subject to financial and practical considerations, feed should be pelleted to achieve pasteurization. This requires a temperature of 820 C for at least 30 seconds to eliminate enteric bacteria. Maintaining Good Manufacturing Practices and careful monitoring of the pelleting process will reduce the probability of infection.
+   43. Either feed plant personnel should be trained in the selection, application or control of pesticides and rodenticides, or a licensed applicator should be used. This may reduce the probability of accidental contamination of feed or contravention of regulations.
+9. Period of rest and rearing of single age group:
+
+
+One disease prevention measure that can be instituted in the farm is the method of practice of all-in all-out system. This method envisages a complete growth cycle of chickens (or other species) from the period of introduction as in day-old-chicks all the way till the birds are marketed.
+
+
+The all in-all-out system should be followed in poultry farms maintaining the important germplasms. This system provides considerable advantages in the disease control. Using this system, proper sanitary practices can be effectively carried out, coupled with necessary resting period of the building to ensure no infectious agents are carried over from one batch to another. Birds of multiple ages kept on the same premise/shed constitute a serious disease potential from such birds and recovered carriers, especially when birds of different ages are closely associated together.
+
+
+End of batch procedures:
+
+
+   44. After final pick-up, the shed doors must be kept closed except during litter removal. After washing and fumigating/ disinfecting with a suitable disinfectant, shed doors must be kept closed. If drying is a problem, ventilate using fans or bird wire screens in shed doorways. Wild birds must be kept out after disinfection.
+   45. Litter and manure must not be stockpiled in the production area. Litter and manure must be stored in an appropriately designed storage area, off the production area, with sufficient buffering zone from the bird sheds and enclosures.
+   46. It is also important to allow sufficient downtime in between flocks. A free period of atleast 10 days should be given after destocking before arrival of new batch.
+10. Medication/ vaccination of birds:
+
+
+The birds should be provided certain medicines and essential vaccines regularly, which can boost immunity such as vitamins, trace minerals and proteins. Deficiency of these will not only lead to decreased production but there will be more chances of getting infection in flock with low level of immunity. Anti-stress medication during hot weather and other stressed conditions may be given.
+
+
+11. Flock profiling:
+
+
+   47. Analysis of feed for mycotoxins or other toxic components should be a part of regular biosecurity measures.
+   48. Environmental monitoring of Salmonella in poultry house should also be carried out regularly.
+   49. Isolation, identification and antibiogram of pathogenic organisms should be a part of biosecurity measures.
+   50. Stress reducing measures should be part of regular biosecurity measures. Controlling environmental temperature is most important for removing summer stress.
+   51. Person working with poultry operation should be educated about the disease, its transmission and prevention measures.
+
+
+12. For high risk/ Alarming situation:
+   1. Self quarantine upon the suspicion of an infectious disease - No movement of poultry, eggs, dead carcass, manure, farm machinery, and equipment should be allowed within the affected shed area and to outside/other sheds area.
+   2. Immediately adopt enhanced biosecurity protocols for unaffected sheds.
+   3. Treat dead birds as infectious material and dispose off accordingly.
+   4. Dedicate specific employees to the affected shed(s).
+   5. The farm personnel should wear protective clothing all the time inside the farm, including face-masks & gloves, gumboots.
+   6. Follow strict personal biosecurity procedures while leaving the farm.
+   7. Immediately restrict on and off-farm access by locking gates.
+   8. Suspend all unnecessary traffic – no vehicle should be allowed to ply in & out in the farm. Personal vehicle should be left outside the farm premises.
+   9. Disinfection procedures should be strictly applied at the entrance and around the premises.
+   10. Immediate reporting of the unusual mortality & sickness of the birds in the farm to nearest Government Veterinary Officer/ Ministry.
+13. Documentation and Record keeping (indicative list)
+   1. Outlay / map of the entire farm with clear demarcation of clean and dirty areas with unidirectional approach (one-way route) roads/ access points-roads and gates/ clean-dirty water demarcation etc. – all colour codes should be displayed in office with Critical Control Points clearly marked and should be kept up-to-date.
+   2. Personnel roster- shed-wise/ entry/exit time; duty /job chart-cleaning of shed, feeding pans/ watering channels, cage cleaning, litter turning etc.
+   3. Visitor’s entry log
+   4. Vehicle entry log
+   5. Disinfectant spray schedule for houses; wheel/ foot-dip change roster
+   6. Trace-in        and        Trace-out        for        both        consignments        (chicks/        Hatching        Eggs etc.)arrivals and transfers respectively
+   7. Log for feed / equipment arrival and allocation shed-wise, in hatchery/ disinfection of equipment
+   8. Health check-up and cleanliness check-up schedules for personnel
+   9. Vaccination and health register/ record
+   10. Schedule for vector/ rodent control program & monitoring
+   11. Record of dead bird disposal, hatchery waste disposal/ manure disposal
+   12. Water sanitization schedule / water testing frequency
+   13. Microbial load testing frequency in different areas- schedule of testing for ensuring freedom status from Salmonella, Coli and Clostridium species
+   14. Salmonella testing schedule
+   15. Shed cleaning/ disinfection/ fumigation schedule
+   16. Record of separate sheds having single age group stocks etc.
+   17. Feed Testing schedule
+
+
+
+
+14. General considerations for collection of infective/ suspected material for laboratory testing
+
+
+   18. The diseases most commonly encountered in are of bacterial, viral, parasitic, fungal and metabolic origin. Diagnosis based on symptoms and laboratory examination of the relevant materials is essential for initiating treatment at the proper time. In general, the following points should be duly considered while collecting materials for laboratory diagnosis.
+   19. All materials collected should be accompanied with full history of disease outbreak namely species affected, duration of disease, clinical signs, morbidity and mortality rates, disease suspected etc.
+   20. The collected biological specimens should be transported on ice to the nearest laboratory as early as possible.
+   21. Materials collected for bacteriological examination should be kept at refrigeration temperature (4o C) in case of delay of transportation. If a viral etiology is suspected, the material can be stored at –20 to -80o C.
+   22. When sero-diagnosis is required, collect paired serum samples (about 2 ml sera). One serum sample should be collected at the onset of disease and second sera after recovery (3-4 weeks) from disease preferably on 21st day.
+   23. If death is reported, the post-mortem examination should be conducted at the earliest as putrefied materials are unfit for laboratory examination.
+   24. Detailed post-mortem report should be attached along with the samples collected during postmortem.
+   25. The different virological transport media that can be used are 50% Phosphate Buffered Glycerine Saline and Phosphate Buffer Saline (pH 7.2-7.4). Collect samples in sterile containers when a transport media is not available and put them on ice as early as possible.
+   26. For histopathological studies, tissues should be preserved in 10% formalin. The volume of formalin used should be approximately 10 times the volume of material. Specimen bottles with wide mouth should be used for collecting tissues.
+   27. The specimen bottles should be sealed well so as to avoid leakage and kept clearly indicating the fixative/transport media used.
+   28. All the impression smears before keeping, should be fixed in methanol for 1-5 minutes unless otherwise specified.
+   29. In case of outbreaks, try to collect materials from as many ailing animals (5-6 or more) as possible at the height of body temperature /clinical signs.
+
+
+Action Plan for Prevention, Control & Containment of Avian Influenza (Revised – 2015) may be referred to specific sample collection, processing and despatch methodology in case of avian influenza.
+APPENDIX-I
+Entry conditions for visitors to poultry shed and/or range areas
+Entry to Poultry farms/ sheds should be subject to the following conditions:
+
+
+* Visitors should not keep poultry, caged birds or pigs at home.
+	* Visitors must not have been in contact with any avian species or untreated poultry manure on the same day, unless a full head-to-head shower and a change of protective clothing have been carried out.
+	* Visitors must wear protective clothing provided.
+	
+
+* Visitors must wear protective boots/foot coverings.
+	* Visitors must sanitize boots in the footbath provided on entering production area
+/shed, or change into a separate pair of shed boots.
+	* Visitors must sanitize hands before entering sheds .
+	
+
+
+
+Model Format for record/ log keeping of visitors:
+
+
+
+
+Date
+	Name
+	Company
+	Poultry Contact in last 48
+hours
+	Reason for visit
+	Time in
+	Signature
+	Time out
+	Signature
+	
+
+APPENDIX-II
+WATER QUALITY
+DO’S AND DON'TS OF WATER MANAGEMENT
+
+
+DO’S
+	DON'TS
+	Clean drinker twice a day
+	Do not store water more than one day in
+shed water tank
+	Maintain water tank under shade
+	Do not administer water in bent pipelines
+	Store water sanitizers in cool and dark places
+	Do not keep Water sanitizers on top of the
+tank
+	Daily        check        out        for        water        sanitizers
+available in store (Quantity and quality)
+	Check  the  compatibility  of  medicine  in
+drinking water with sanitizer used
+	Clean the drinker after raking the litter
+	Do not multi source water to the birds
+	
+
+
+
+
+
+WATER SANITATION RECORD
+	Date
+	Time
+	Test Result (e.g. ppm of free available
+chlorine)
+	Corrective action
+	Name / initials
+	
+
+APPENDIX-III
+Illustrative        formats        for        concurrent        biosecurity        monitoring/        in-house auditing
+A.
+	Documentation and training
+	Yes
+	No
+	N/A
+	Correctiv e action
+	A1.
+	Is a copy of the current Biosecurity Manual held on
+the production area and readily available?
+	
+
+	
+
+	
+
+	
+
+	A2.
+	Has staff been given instruction / suitable training in
+the relevant biosecurity procedures?
+	
+
+	
+
+	
+
+	
+
+	A3.
+	Is a record kept of all relevant training received by
+employees?
+	
+
+	
+
+	
+
+	
+
+	A4.
+	Is a bird mortality register being maintained?
+	
+
+	
+
+	
+
+	
+
+	A5.
+	Is an appropriate bird movement register being
+maintained?
+	
+
+	
+
+	
+
+	
+
+	
+
+B.
+	Facility standards
+	Yes
+	No
+	N/A
+	Corrective
+action
+	B1.
+	Does the production area have a perimeter fence and
+can access routes be closed off to prevent vehicle entry?
+	
+
+	
+
+	
+
+	
+
+	B2.
+	Is  there  a  sketch  or  map  clearly  defining  the
+production area and the property, including all access roads and gates?
+	
+
+	
+
+	
+
+	
+
+	B3.
+	Is there adequate signage to inform visitors of the
+Biosecure Area and what action they should take?
+	
+
+	
+
+	
+
+	
+
+	B4.
+	Is there an off-site parking area for visitiors?
+	
+
+	
+
+	
+
+	
+
+	B5.
+	Are footbaths available and used at all entrances
+allowing personnel access to sheds?
+	
+
+	
+
+	
+
+	
+
+	B6.
+	Are the footbaths inspected daily and replenished as
+required?
+	
+
+	
+
+	
+
+	
+
+	B7.
+	Alternative to B5 and B6: is a separate pair of boots
+available and used for each poultry enclosure?
+	
+
+	
+
+	
+
+	
+
+	B8.
+	Is the area around the sheds neat and tidy? E.g. grass,
+vegetation
+	
+
+	
+
+	
+
+	
+
+	B9.
+	Are the sheds rodent proof? Is there a bait plan in
+position?
+	
+
+	
+
+	
+
+	
+
+	B10.
+	Is hand sanitizer or washing facilities available and
+used at all entrances allowing personnel access to sheds?
+	
+
+	
+
+	
+
+	
+
+	B11.
+	Are other livestock excluded from the production area or effectively restricted so that their faeces do not come in contact with poultry either directly or indirectly, e.g. water draining into poultry areas/
+shed?
+	
+
+	
+
+	
+
+	
+
+	B12.
+	Are the sheds wild bird proof?
+	
+
+	
+
+	
+
+	
+
+	B13.
+	Are no other pet caged or aviary birds, pigs or any
+other animals held on the property?
+	
+
+	
+
+	
+
+	
+
+	
+
+APPENDIX-III(Contd.)
+
+
+C
+	Personnel standards
+	Yes
+	No
+	N/A
+	Corrective action
+	C1.
+	Is there a visitors’ log book and are all production area
+vistors required to complete their details in the book?
+	
+
+	
+
+	
+
+	
+
+	C2.
+	Are the conditions of entry to the production area
+visitors required to complete their details in the book?
+	
+
+	
+
+	
+
+	
+
+	
+
+
+
+D
+	Water treatment
+	Yes
+	No
+	N/A
+	Corrective action
+	D1
+	Is there a Water sanitizing system in place for the
+production area?
+	
+
+	
+
+	
+
+	
+
+	D2
+	Is the effectiveness of the sanitizing confirmed by independent microbiological testing on an annual
+basis if required?
+	
+
+	
+
+	
+
+	
+
+	
+
+
+
+E.
+	Dead bird and bio-wastes disposal (including
+vaccine vials, needles, syringes etc.)
+	Yes
+	No
+	N/A
+	Corrective
+action
+	E1.
+	Is there an appropriate procedure in place for the
+disposal of dead birds and other bio-wastes?
+	
+
+	
+
+	
+
+	
+
+	E2.
+	Is the procedure both environmentally sound and
+biosecure?
+	
+
+	
+
+	
+
+	
+
+	
+
+
+
+F.
+	Health related records
+	Yes
+	No
+	N/A
+	Corrective action
+	F1.
+	Is vaccination record in place?
+	
+
+	
+
+	
+
+	
+
+	F2.
+	Are the details of medication and other management procedures, post-mortem
+report, sale of culled birds recorded?
+	
+
+	
+
+	
+
+	
+
+	
+
+
+
+F.
+	Species specific requirements
+	Yes
+	No
+	N/A
+	Specific action taken
+	F1.
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+Notes:

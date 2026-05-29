@@ -1,0 +1,504 @@
+POULTRY AND CATTLE DISEASE DIAGNOSTICS GUIDE
+For Field Veterinarians and Animal Health Workers in India
+Department of Animal Husbandry and Dairying — Advisory Reference
+
+==============================================================
+SECTION 1: INTRODUCTION TO FIELD DIAGNOSTICS
+==============================================================
+
+Accurate and timely diagnosis is the cornerstone of effective disease management in livestock and poultry. Field diagnostics involve integrating clinical signs, history, flock/herd data, post-mortem findings, and where necessary, laboratory confirmation. This guide is organized by animal species and disease system to assist animal health workers in reaching a working diagnosis quickly in field conditions.
+
+Key Diagnostic Principles:
+- Always consider the signalment: age, breed, production stage, vaccination history.
+- Gather epidemiological data: mortality rate, morbidity rate, duration, feed/water changes.
+- Conduct post-mortem examination on freshly dead birds or animals when possible.
+- Submit appropriate samples for laboratory confirmation of tentative diagnosis.
+- Differential diagnosis should always be listed before concluding on a single cause.
+
+==============================================================
+SECTION 2: POULTRY DISEASE DIAGNOSTICS
+==============================================================
+
+----------------------------
+2.1 RESPIRATORY DISEASES
+----------------------------
+
+DISEASE: Newcastle Disease (Ranikhet Disease)
+Species Affected: Chickens, turkeys, other poultry
+Age Group: All ages; chicks highly susceptible
+Clinical Signs:
+  - Respiratory: gasping, sneezing, rattling sounds, nasal discharge
+  - Nervous: torticollis, circling, paralysis of wings and legs, tremors
+  - Drop in egg production; soft-shelled or misshapen eggs in layers
+  - Greenish-watery diarrhea
+  - Sudden high mortality in velogenic strains (up to 100%)
+Post-mortem Findings:
+  - Hemorrhages in proventriculus and intestines
+  - Congestion of trachea, lungs
+  - Cecal tonsils may be hemorrhagic
+Differential Diagnosis: Infectious Bronchitis, Fowl Cholera, Avian Influenza
+Confirmatory Tests: Hemagglutination Inhibition (HI) test, RT-PCR, virus isolation
+Important Note: Newcastle Disease is a notifiable disease. Suspected outbreaks must be reported to the nearest veterinary authority immediately.
+
+---
+
+DISEASE: Infectious Bronchitis (IB)
+Species Affected: Chickens only
+Age Group: All ages; more severe in young chicks
+Clinical Signs:
+  - Respiratory distress, gasping, nasal discharge, conjunctivitis
+  - Tracheal rales (crackling sounds)
+  - In layers: significant drop in egg production; watery albumen, wrinkled eggs
+  - In young chicks (under 3 weeks): mortality may reach 25-30%
+Post-mortem Findings:
+  - Caseous plugs in trachea and bronchi
+  - Air sac lesions (cloudiness)
+  - Kidney form: swollen pale kidneys with urate deposits (nephropathogenic strains)
+Differential Diagnosis: Newcastle Disease, Mycoplasmosis, Aspergillosis
+Confirmatory Tests: RT-PCR, ELISA serology, virus isolation
+
+---
+
+DISEASE: Mycoplasmosis (Chronic Respiratory Disease - CRD)
+Causative Agent: Mycoplasma gallisepticum (MG), M. synoviae (MS)
+Species Affected: Chickens, turkeys
+Age Group: All ages; often subclinical until stress
+Clinical Signs:
+  - Nasal discharge, facial swelling, coughing, rales
+  - Reduced feed intake and weight gain
+  - Swollen hock joints (MS)
+  - Drop in egg production in layers
+Post-mortem Findings:
+  - Airsacculitis (thickened, cloudy air sacs with caseous exudate)
+  - Sinusitis
+  - Perihepatitis and pericarditis when complicated with E. coli (CCRD)
+Differential Diagnosis: Newcastle Disease, Infectious Bronchitis, Fowl Cholera
+Confirmatory Tests: Serum Plate Agglutination (SPA) test, PCR, culture
+Management Note: MG/MS is frequently exacerbated by concurrent viral infections or poor ventilation.
+
+---
+
+DISEASE: Avian Influenza (Bird Flu)
+Species Affected: All poultry species; wild birds as reservoirs
+Age Group: All ages
+Clinical Signs (HPAI — Highly Pathogenic):
+  - Sudden high mortality with few premonitory signs
+  - Severe respiratory distress, cyanosis of comb and wattles (blue/purple discoloration)
+  - Facial edema, hemorrhages in legs and feet
+  - Neurological signs, profuse watery diarrhea
+  - Complete cessation of egg production
+Post-mortem Findings:
+  - Severe hemorrhagic lesions throughout the gastrointestinal tract
+  - Necrotic foci in liver, spleen, kidneys
+  - Subcutaneous hemorrhages
+CRITICAL: HPAI is a zoonotic disease and a notifiable disease. Do NOT enter affected premises without proper PPE. Report immediately to District Veterinary Officer.
+Confirmatory Tests: RT-PCR (H5, H7 subtype testing), antigen detection, virus isolation at approved labs
+Differential Diagnosis: Newcastle Disease (velogenic), Fowl Cholera (acute)
+
+----------------------------
+2.2 ENTERIC DISEASES
+----------------------------
+
+DISEASE: Coccidiosis
+Causative Agent: Eimeria species (E. tenella, E. acervulina, E. maxima, E. necatrix, etc.)
+Species Affected: Chickens, turkeys
+Age Group: Broilers 2-8 weeks; layer pullets 4-12 weeks
+Clinical Signs:
+  - Bloody diarrhea (caecal form — E. tenella)
+  - Pasty or mucoid diarrhea (intestinal forms)
+  - Huddling, ruffled feathers, anorexia
+  - Pale combs, weight loss, reduced feed conversion
+  - High morbidity, variable mortality
+Post-mortem Findings:
+  - Caecal coccidiosis: distended ceca filled with blood or caseous cores
+  - Intestinal coccidiosis: thickened intestinal wall, petechiae, orange-mucoid contents
+Differential Diagnosis: Ulcerative Enteritis, Necrotic Enteritis, Salmonellosis
+Confirmatory Tests: Fecal flotation (oocyst identification), mucosal scraping microscopy
+Treatment: Amprolium, Sulfonamides, Toltrazuril as per withdrawal period guidelines
+Prevention: Coccidiostats in feed, good litter management, vaccination (Paracox)
+
+---
+
+DISEASE: Necrotic Enteritis
+Causative Agent: Clostridium perfringens Type A and C
+Species Affected: Broilers, turkeys
+Age Group: 2-6 weeks (broilers); 7-12 weeks (turkeys)
+Predisposing Factors: High-protein diet, coccidiosis, mycotoxins, immune suppression
+Clinical Signs:
+  - Sudden death without premonitory signs (peracute)
+  - Depression, reluctance to move, wet litter
+  - Diarrhea may be dark brown and foul-smelling
+Post-mortem Findings:
+  - Small intestine ballooned, friable with brown-black necrotic mucosa
+  - Gas-filled intestines
+  - Pseudomembranous lining on intestinal mucosa
+Differential Diagnosis: Coccidiosis (intestinal), Ulcerative Enteritis
+Confirmatory Tests: Gram stain of intestinal contents (large Gram-positive rods), culture, toxin typing
+Treatment: Amoxicillin, Bacitracin, Lincomycin, Tylosin (per sensitivity)
+
+---
+
+DISEASE: Salmonellosis (Pullorum Disease / Fowl Typhoid)
+Causative Agent: Salmonella pullorum (Pullorum), S. gallinarum (Fowl Typhoid)
+Species Affected: All poultry; chickens most susceptible
+Age Group: Chicks under 3 weeks (Pullorum); mature birds (Fowl Typhoid)
+Clinical Signs:
+  - Pullorum: white pasty diarrhea, pasting of vent, huddling, high mortality in chicks
+  - Fowl Typhoid: yellowish-green diarrhea, anemia, weight loss, sudden death
+Post-mortem Findings:
+  - Pullorum: enlarged liver and spleen with necrotic foci; unabsorbed yolk sac
+  - Fowl Typhoid: swollen liver (bronze discoloration), spleen and kidneys enlarged
+Differential Diagnosis: E. coli infection, Coccidiosis, Marek's Disease
+Confirmatory Tests: Whole Blood Agglutination Test (WBAT), culture and sensitivity
+Public Health Note: Salmonellosis has zoonotic significance. Proper hygiene after handling affected birds is essential.
+
+----------------------------
+2.3 VIRAL IMMUNOSUPPRESSIVE DISEASES
+----------------------------
+
+DISEASE: Infectious Bursal Disease (Gumboro Disease)
+Causative Agent: Infectious Bursal Disease Virus (IBDV)
+Species Affected: Chickens
+Age Group: 3-6 weeks (most susceptible); immunosuppression at any age
+Clinical Signs:
+  - Sudden onset of depression, ruffled feathers, anorexia
+  - White watery diarrhea, vent pecking
+  - Trembling, inability to stand, dehydration
+  - Mortality 5-40% depending on strain; classic vs. very virulent strains differ
+Post-mortem Findings:
+  - Bursa of Fabricius: initially swollen and edematous (day 3-4), then atrophied (after day 5)
+  - Hemorrhages in thigh and breast muscles (pathognomonic)
+  - Kidneys swollen with urate deposits
+Differential Diagnosis: Marek's Disease, Newcastle Disease, Infectious Bronchitis (nephropathogenic)
+Confirmatory Tests: Agar Gel Immunodiffusion (AGID), ELISA, histopathology of bursa
+
+---
+
+DISEASE: Marek's Disease
+Causative Agent: Marek's Disease Virus (MDV — Herpesvirus)
+Species Affected: Chickens
+Age Group: 3-30 weeks; most losses between 8-20 weeks
+Forms: Visceral, Neural, Ocular, Cutaneous
+Clinical Signs:
+  - Neural form: progressive paralysis of one or both legs ("splits position"), wing paralysis, neck twisting
+  - Visceral form: weight loss, diarrhea, sudden death
+  - Ocular form: irregular, grey iris; partial or complete blindness
+Post-mortem Findings:
+  - Enlarged peripheral nerves (sciatic, brachial plexus) — loss of cross-striation
+  - Tumors in liver, spleen, gonads, kidneys, heart, lung
+  - Bursa of Fabricius typically atrophied
+Differential Diagnosis: Lymphoid Leukosis, Newcastle Disease (nervous form), Botulism
+Confirmatory Tests: Histopathology, PCR
+Prevention: Vaccination at hatch with HVT or Rispens vaccine; no treatment available
+
+----------------------------
+2.4 BACTERIAL DISEASES
+----------------------------
+
+DISEASE: Fowl Cholera
+Causative Agent: Pasteurella multocida
+Species Affected: All poultry; ducks and turkeys highly susceptible
+Age Group: Mature birds (>16 weeks) more commonly affected
+Clinical Signs:
+  - Peracute: sudden death of best-conditioned birds
+  - Acute: fever, depression, mucoid nasal discharge, greenish diarrhea, dyspnea
+  - Chronic: swollen wattles (cheesy exudate), torticollis, arthritis
+Post-mortem Findings:
+  - Petechial hemorrhages on serosal surfaces and heart
+  - Fibrinous pericarditis and perihepatitis
+  - Necrotic foci in liver
+Differential Diagnosis: Newcastle Disease, Avian Influenza, Erysipelas
+Confirmatory Tests: Culture on blood agar (small, non-hemolytic colonies), sensitivity testing
+
+---
+
+DISEASE: Colibacillosis (Avian Colibacillosis)
+Causative Agent: Pathogenic Escherichia coli (APEC)
+Species Affected: All poultry
+Age Group: All ages; chicks and young birds most susceptible
+Clinical Signs:
+  - Variable: depends on infection form
+  - Omphalitis (yolk sac infection) in chicks: mushy chick syndrome, navel infection
+  - Air sacculitis, pericarditis, perihepatitis in older birds
+  - Salpingitis in layers: causing drop in egg production
+Post-mortem Findings:
+  - Fibrinous pericarditis, perihepatitis, air sacculitis (polyserositis)
+  - Omphalitis: unabsorbed yolk, yellowish exudate
+  - Swollen liver with fibrin coat
+Differential Diagnosis: Mycoplasmosis, Fowl Cholera, Marek's Disease
+Confirmatory Tests: Culture and antibiotic sensitivity testing
+
+==============================================================
+SECTION 3: CATTLE AND BUFFALO DISEASE DIAGNOSTICS
+==============================================================
+
+----------------------------
+3.1 FOOT AND MOUTH DISEASE (FMD)
+----------------------------
+
+Causative Agent: FMD Virus (Aphthovirus) — Serotypes O, A, Asia-1 prevalent in India
+Species Affected: Cattle, buffalo, pigs, sheep, goats; rarely humans
+Age Group: All ages; calves more severely affected
+Clinical Signs:
+  - High fever (40-41°C) for 2-3 days
+  - Excessive salivation with stringy saliva
+  - Vesicles (fluid-filled blisters) on tongue, dental pad, lips, gums, feet (interdigital space, coronary band), teats
+  - Vesicles rupture to form painful erosions — causes lameness and reluctance to walk
+  - Drop in milk yield (50-95%)
+  - Calves: myocarditis, sudden death ("tiger heart")
+Post-mortem Findings:
+  - Vesicular lesions in oral cavity and feet
+  - "Tiger heart": pale streaks in cardiac muscle of calves
+Differential Diagnosis: Bovine Viral Diarrhea (BVD), Rinderpest (eradicated), Malignant Catarrhal Fever
+Confirmatory Tests: Complement Fixation Test (CFT), ELISA (antigen detection), RT-PCR
+Important: FMD is a notifiable disease. Report immediately to veterinary authorities.
+
+----------------------------
+3.2 HAEMORRHAGIC SEPTICAEMIA (HS)
+----------------------------
+
+Causative Agent: Pasteurella multocida Type B:2 (and E:2)
+Species Affected: Cattle and buffalo; buffalo more susceptible
+Age Group: All ages; adult working animals at high risk
+Seasonal Pattern: Peaks in monsoon season (June-September)
+Clinical Signs:
+  - Sudden onset of high fever (41-42°C)
+  - Profuse salivation, nasal discharge
+  - Hot, painful edematous swelling of head, neck, brisket (characteristic sign)
+  - Severe respiratory distress, dyspnea
+  - Death within 6-24 hours in peracute cases
+Post-mortem Findings:
+  - Gelatinous subcutaneous edema in throat, neck, brisket
+  - Hemorrhages on serosal surfaces
+  - Congested lungs
+Differential Diagnosis: Anthrax, Blackquarter, Trypanosomosis
+Confirmatory Tests: Culture of blood/tissues (before antibiotic treatment), serology
+Treatment: Penicillin-Streptomycin combination (early treatment critical); anti-HS serum (prophylactic)
+Prevention: Annual vaccination with HS vaccine before monsoon
+
+----------------------------
+3.3 BLACKQUARTER (BQ)
+----------------------------
+
+Causative Agent: Clostridium chauvoei
+Species Affected: Cattle (cattle more than buffalo)
+Age Group: 6 months to 2 years; well-nourished animals preferentially affected
+Clinical Signs:
+  - Sudden lameness; reluctance to bear weight
+  - Hot, painful swelling on affected muscle groups (hip, thigh, shoulder, neck)
+  - Swelling becomes cold, emphysematous (gas under skin — crackling sound on palpation)
+  - High fever initially, then subnormal as condition deteriorates
+  - Death within 12-48 hours in most cases
+Post-mortem Findings:
+  - Dark red to black muscle with gas bubbles (characteristic)
+  - Rancid-butter smell from affected muscles
+  - Serous effusion in body cavities
+Differential Diagnosis: Haemorrhagic Septicaemia, Anthrax, Snake bite
+Confirmatory Tests: Fluorescent Antibody Test (FAT) on muscle smears, anaerobic culture
+Prevention: Annual vaccination with BQ or combined Clostridial vaccine
+
+----------------------------
+3.4 ANTHRAX
+----------------------------
+
+Causative Agent: Bacillus anthracis
+Species Affected: All domestic animals; zoonotic (highly dangerous to humans)
+Clinical Signs:
+  - Peracute: sudden death, bloody discharge from natural orifices, no rigor mortis
+  - Acute: high fever, excitement followed by depression, difficulty breathing, bloody diarrhea
+WARNING: DO NOT perform post-mortem on suspected anthrax cases. Spores are highly resistant and contaminate the environment for decades.
+Action: Report immediately to District Veterinary Officer. The carcass must be incinerated or deeply buried with quicklime. Anthrax is a notifiable disease and a zoonotic risk.
+Confirmatory Tests: Blood smear (McFadyean's reaction — polychrome methylene blue staining showing capsule), culture in approved laboratory
+Prevention: Annual vaccination with Sterne live spore vaccine in endemic areas
+
+----------------------------
+3.5 THEILERIOSIS (TROPICAL THEILERIOSIS)
+----------------------------
+
+Causative Agent: Theileria annulata
+Vector: Hyalomma ticks (H. anatolicum, H. dromedarii)
+Species Affected: Cattle (especially crossbreds and exotic breeds); buffalo
+Age Group: All ages; adult crossbred cattle most susceptible
+Seasonal Pattern: Peaks in summer (April-June) when tick activity is high
+Clinical Signs:
+  - High fever (41-42°C), persistent
+  - Enlarged superficial lymph nodes (parotid, prescapular, prefemoral)
+  - Pale or icteric mucous membranes (anemia, jaundice)
+  - Nasal and ocular discharge; respiratory distress
+  - Profuse watery diarrhea
+  - Rapid weight loss, drop in milk yield
+  - Petechiae on conjunctiva and vulvar mucosa
+Post-mortem Findings:
+  - Enlarged, pulpy spleen
+  - Swollen, orange-yellow liver
+  - "Corneal opacity" — white patches on lung surfaces
+  - Enlarged lymph nodes with petechiae
+Differential Diagnosis: Anaplasmosis, Babesiosis, Trypanosomosis, Haemorrhagic Septicaemia
+Confirmatory Tests: Giemsa-stained blood smear (piroplasms in RBCs), lymph node biopsy (schizonts)
+Treatment: Buparvaquone (Butalex) 2.5 mg/kg IM — most effective; Halofuginone as adjunct
+
+----------------------------
+3.6 FOOT ROT (INTERDIGITAL NECROBACILLOSIS)
+----------------------------
+
+Causative Agent: Fusobacterium necrophorum and Prevotella melaninogenica
+Species Affected: Cattle, buffalo, sheep
+Age Group: Adult animals
+Predisposing Factors: Wet muddy conditions, wounds in interdigital space, nutritional deficiency
+Clinical Signs:
+  - Acute lameness (sudden onset)
+  - Swelling of interdigital space extending to coronary band
+  - Foul-smelling necrotic tissue between claws
+  - Fever, reduced feed intake
+Post-mortem/Clinical Examination:
+  - Necrotic, malodorous lesion in interdigital space
+  - May progress to tendon sheath, joint involvement if untreated
+Differential Diagnosis: FMD, Digital Dermatitis, Laminitis, Foreign body injury
+Confirmatory Tests: Clinical diagnosis; bacterial culture for complicated cases
+Treatment: Parenteral antibiotics (Penicillin, Oxytetracycline, Sulfonamides); hoof trimming; topical antiseptics
+Prevention: Good drainage, hoof baths (5% formalin or 10% zinc sulfate)
+
+----------------------------
+3.7 MASTITIS
+----------------------------
+
+Causative Agents: Staphylococcus aureus, Streptococcus agalactiae, E. coli, Klebsiella, others
+Species Affected: Dairy cattle, buffalo, dairy goats
+Mastitis Types:
+  - Peracute: sudden onset, systemic illness, toxemia
+  - Acute: swelling, pain, firmness of affected quarter; abnormal milk
+  - Subacute: minor changes in milk (flakes, clots), mild swelling
+  - Subclinical: no visible signs; detected by CMT or SCC
+Clinical Signs:
+  - Swollen, hot, painful quarter(s)
+  - Abnormal milk: watery, with clots, flakes, blood, or pus
+  - Reduced milk yield
+  - In peracute: high fever, depression, complete cessation of milk, gangrene of quarter possible
+California Mastitis Test (CMT): Simple field test — positive result (gel formation) indicates subclinical mastitis
+Confirmatory Tests: Milk culture and sensitivity, Somatic Cell Count (SCC)
+Treatment: Intramammary infusion of antibiotics as per sensitivity; systemic antibiotics for clinical cases
+Prevention: Teat dipping post-milking, dry cow therapy, proper milking hygiene, culling chronically infected cows
+
+==============================================================
+SECTION 4: SMALL RUMINANT DISEASE DIAGNOSTICS (SHEEP AND GOATS)
+==============================================================
+
+----------------------------
+4.1 PESTE DES PETITS RUMINANTS (PPR)
+----------------------------
+
+Causative Agent: PPR Virus (Morbillivirus)
+Species Affected: Goats (more severely), sheep
+Age Group: Young animals 3-18 months most affected
+Clinical Signs:
+  - High fever (40-41°C)
+  - Profuse mucopurulent nasal and ocular discharge
+  - Erosions in oral cavity (tongue, gums, palate)
+  - Severe diarrhea (may be blood-stained)
+  - Respiratory distress, pneumonia
+  - Mortality 50-90% in naive populations
+Post-mortem Findings:
+  - Necrotic and erosive lesions in mouth and intestines
+  - Zebra-striping of large intestine mucosa (characteristic)
+  - Congestion and consolidation of lungs
+Differential Diagnosis: Foot and Mouth Disease, Contagious Caprine Pleuropneumonia (CCPP)
+Confirmatory Tests: AGID, ELISA, RT-PCR
+Important: PPR is a notifiable disease. Significant mortality in small ruminants should prompt immediate reporting.
+
+==============================================================
+SECTION 5: DIAGNOSTIC SAMPLE COLLECTION GUIDELINES
+==============================================================
+
+5.1 General Principles:
+  - Collect samples from recently dead or sick (untreated) animals
+  - Use sterile containers and appropriate transport media
+  - Label clearly: animal ID, farm details, date, suspected diagnosis
+  - Maintain cold chain (4°C for most samples; -20°C for viral samples during long transit)
+  - Submit samples with a completed clinical history form
+
+5.2 Sample Types by Suspected Condition:
+
+Respiratory Diseases (viral):
+  - Tracheal/cloacal swabs in viral transport medium (VTM)
+  - Fresh lung tissue (5x5 cm block) in separate sterile container
+  - Paired serum samples (acute and convalescent, 2-3 weeks apart)
+
+Enteric Diseases:
+  - Fresh fecal sample (5-10 g) in clean container
+  - Intestinal scraping or loop of affected intestine (tied at both ends)
+
+Bacterial Diseases:
+  - Blood (before antibiotic treatment) in EDTA and plain vacutainer
+  - Affected organ tissues in plain sterile container (DO NOT add formalin for culture samples)
+  - Pus/exudate from lesions in sterile swab
+
+Parasitic Diseases:
+  - Fresh fecal sample for flotation and McMaster count
+  - Blood smear (thick and thin) for blood parasites — stain with Giemsa
+  - Skin scraping in liquid paraffin for external parasites
+
+Histopathology:
+  - Fix tissues (1 cm thick) in 10% neutral buffered formalin
+  - Submit multiple organ samples: liver, spleen, lung, kidney, intestine, brain
+
+5.3 Key Laboratories for Diagnostic Confirmation in India:
+  - IVRI (Indian Veterinary Research Institute), Bareilly, Uttar Pradesh
+  - NRC on Equines, Hisar
+  - NRCE, Pune (for equines)
+  - State Veterinary Colleges and Diagnostic Laboratories
+  - Regional Disease Diagnostic Laboratories (RDDL) under DAHD
+
+==============================================================
+SECTION 6: DIFFERENTIAL DIAGNOSIS QUICK REFERENCE — POULTRY
+==============================================================
+
+Sudden High Mortality (Poultry):
+  - With nervous signs: Newcastle Disease (velogenic), Avian Influenza, Botulism
+  - Without premonitory signs: Avian Influenza (HPAI), Fowl Cholera (peracute), Blackhead (turkeys)
+  - With respiratory signs: Newcastle Disease, Infectious Bronchitis, Avian Influenza
+
+Drop in Egg Production (Layers):
+  - Newcastle Disease, Infectious Bronchitis, Egg Drop Syndrome-76 (EDS-76), Mycoplasmosis, Infectious Laryngotracheitis, nutritional deficiency
+
+Diarrhea in Poultry:
+  - Bloody: Coccidiosis (E. tenella), Necrotic Enteritis
+  - Green watery: Newcastle Disease, Fowl Typhoid
+  - White pasty (chicks): Pullorum Disease, Omphalitis
+
+Paralysis in Chickens:
+  - Leg paralysis (splits): Marek's Disease (neural), Vitamin B2 deficiency
+  - Floppy neck: Botulism
+  - Torticollis: Newcastle Disease (lentogenic/mesogenic), Marek's
+
+==============================================================
+SECTION 7: DIFFERENTIAL DIAGNOSIS QUICK REFERENCE — CATTLE
+==============================================================
+
+Sudden Death in Cattle:
+  - Anthrax (bloody discharge from orifices, no rigor mortis)
+  - Blackquarter (muscle emphysema in young well-fed cattle)
+  - Haemorrhagic Septicaemia (throat edema)
+  - Lightning strike (no lesions, multiple animals)
+
+Lameness in Cattle:
+  - Vesicles on feet: FMD
+  - Interdigital necrosis: Foot Rot
+  - Swollen joint: Traumatic arthritis, Joint ill (calves)
+  - Multiple limbs: Laminitis
+
+High Fever with Tick Infestation:
+  - Theileriosis (lymph node enlargement)
+  - Babesiosis (hemoglobinuria — red urine)
+  - Anaplasmosis (anemia without hemoglobinuria)
+  - Trypanosomosis (intermittent fever, progressive emaciation)
+
+Respiratory Signs in Cattle:
+  - Fever + nasal discharge: BRSV, BVD, IBR, Pasteurellosis
+  - Throat/brisket edema: Haemorrhagic Septicaemia
+  - Frothy bloat: Clover poisoning, Grain overload
+
+==============================================================
+END OF DISEASE DIAGNOSTICS GUIDE
+==============================================================
+
+This document is an advisory reference for trained veterinary professionals and para-veterinarians. Clinical judgment of the attending veterinarian supersedes any guideline. For notifiable diseases, always follow reporting protocols under the Prevention and Control of Infectious and Contagious Diseases in Animals Act, 2009.

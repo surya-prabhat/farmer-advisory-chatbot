@@ -1,0 +1,14 @@
+# Environment
+.env
+
+# Virtual environment
+venv/
+
+
+# Debug scripts
+debug_retrieval.py
+
+# Python
+__pycache__/
+*.pyc
+*.pyo

@@ -1,0 +1,12 @@
+langchain==0.3.25
+langchain-google-genai==2.0.8
+langchain-community==0.3.24
+langchain-chroma==0.2.4
+chromadb>=1.0.9
+deep-translator==1.11.4
+streamlit==1.45.1
+python-dotenv==1.1.0
+pypdf==5.6.0
+langdetect==1.0.9
+rank_bm25
+langchain-ollama==0.3.2

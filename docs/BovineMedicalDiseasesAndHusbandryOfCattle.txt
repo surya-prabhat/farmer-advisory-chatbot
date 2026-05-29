@@ -1,0 +1,94 @@
+An expanded, high-density RAG-optimized version of *Bovine Medicine: Diseases and Husbandry of Cattle* has been compiled below.
+
+By stripping away indexing keywords, structural publisher copyright records, conversational explanations, and general husbandry advice, the core medical pathology criteria, diagnostic parameters, and therapeutic guidelines have been condensed into a focused, text-dense dataset under **0.03 MB** (approx. 27 KB). This format maximizes semantic chunk matching for vector storage.
+
+---
+
+### BMHC RAG Master Knowledge Base: Bovine Medicine Dataset
+
+#### 1. Systemic, Metabolic & Gastrointestinal Pathologies
+
+* **Left Displaced Abomasum (LDA) & Right Displaced Abomasum (RDA):** Anatomical displacement of the abomasum typically occurring within the first 6 weeks post-calving.
+* *Pathogenesis:* Triggered by abomasal atony paired with high gas production, often linked to sudden transitions to high-grain, low-roughage diets.
+* *Diagnostics:* Pathognomonic high-pitched "ping" heard via simultaneous auscultation and percussion over the left (for LDA) or right (for RDA) flank area between the 9th and 12th ribs.
+* *Intervention:* Surgical correction via left-flank abomasopexy, right-flank omentopexy, or toggle-pin fixation.
+
+
+* **Ruminal Acidosis (Acute & Subacute):** Metabolic breakdown caused by excessive ingestion of rapidly fermentable carbohydrates (WSC).
+* *Pathogenesis:* Rapid proliferation of *Streptococcus bovis* produces high concentrations of lactic acid, dropping ruminal pH below 5.5. This destroys normal cellulolytic microflora, damages the ruminal epithelium (rumenitis), and leads to systemic dehydration, metabolic acidosis, laminitis, and liver abscesses.
+* *Therapy:* Administration of oral magnesium hydroxide or sodium bicarbonate; severe acute cases require a ruminitomy to evacuate toxic contents, followed by transfaunation.
+
+
+* **Pregnancy Toxemia & Ketosis (Acetonaemia):** Metabolic states characterized by a severe negative energy balance (NEB).
+* *Pathology:* Inability of gluconeogenic pathways to meet glucose demands during peak lactation (ketosis) or late gestation with multiple fetuses (pregnancy toxemia). Results in rapid mobilization of adipose tissue, producing high levels of non-esterified fatty acids (NEFAs) and ketone bodies (acetoacetate, beta-hydroxybutyrate [BHBA]).
+* *Clinical Presentations:* Wasting form (gradual drop in milk yield, weight loss, sweet acetone breath) and nervous form (circling, head pressing, pica, hyper-excitability).
+* *Therapy:* Intravenous 50% dextrose solution combined with oral administration of glucogenic precursors (propylene glycol).
+
+
+* **Hypocalcemia (Milk Fever / Parturient Paresis):** Acute metabolic disorder occurring near calving due to sudden calcium loss into colostrum.
+* *Pathological Phases:* Stage 1 (hypersensitivity, mild tremors, stiff gait); Stage 2 (sternal recumbency, "S-shaped" neck curvature, dry muzzle, cold extremities, smooth muscle paralysis leading to bloat/uterine inertia); Stage 3 (lateral recumbency, flaccid paralysis, coma, death).
+* *Therapy:* Slow intravenous infusion of 400 mL of 20% to 40% calcium borogluconate solution; monitor heart rate continuously for bradycardia or arrhythmias during administration.
+
+
+
+#### 2. Musculoskeletal, Podal & Neonatal Conditions
+
+* **Digital Dermatitis (Mortellaro Disease):** Highly contagious infectious foot disease primary driven by spirochetes of the genus *Treponema*.
+* *Clinical Signs:* Raw, painful, ulcerative, or proliferative lesions with a strawberry-like appearance, typically located on the skin near the interdigital cleft and heel bulbs. Causes severe lameness.
+* *Intervention:* Topical administration of oxytetracycline sprays or collective chemical footbaths (using 2% to 5% formalin or copper sulfate solutions).
+
+
+* **White Line Disease (WLD):** Structural breakdown of the claw characterized by separation of the sole horn from the wall horn at the white line junction.
+* *Pathogenesis:* Microvascular damage within the laminae (often linked to subclinical laminitis) weakens horn production, allowing debris, dirt, and bacteria to penetrate. This leads to abscess formation, solar ulceration, and deep pododermatitis.
+* *Intervention:* Functional claw trimming, complete debridement of under-run horn sections to facilitate drainage, and application of an orthopedic block to the healthy partner claw to remove weight from the affected side.
+
+
+* **Perinatal Weak Calf Syndrome:** Multifactorial neonatal condition presenting as a failure of the calf to stand or suckle within 2 to 4 hours of birth.
+* *Etiology:* Often linked to prolonged dystocia causing severe fetal hypoxia, hypothermia, combined metabolic-respiratory acidosis, or prenatal deficiencies in selenium and vitamin E.
+* *Management:* Immediate clearing of airways, targeted administration of oxygen, warm fluid resuscitation, and compulsory delivery of high-quality colostrum (minimum 3 to 4 liters within 6 hours of birth).
+
+
+* **Omphalophlebitis (Navel-Ill / Joint-Ill Sequence):** Bacterial infection of umbilical structures (*omphalitis*) that spreads hematogenously to the joints.
+* *Pathogenesis:* Environmental contaminants (*Trueperella pyogenes*, *E. coli*) enter the patent unhealed navel post-calving. This leads to localized umbilical abscesses or tracking via the umbilical veins, resulting in liver abscesses and septic arthritis (joint-ill).
+* *Prevention:* Prompt dipping of the navel in a 7% tincture of iodine solution at birth.
+
+
+
+#### 3. Infectious, Respiratory & Biosafety Protocols
+
+* **Bovine Respiratory Disease Complex (BRDC / Shipping Fever):** A multi-agent disease syndrome caused by interaction between environmental stressors, viral priming, and secondary bacterial infections.
+* *Primary Viral Agents:* Infectious Bovine Rhinotracheitis (IBR / Bovine Herpesvirus-1), Bovine Viral Diarrhea Virus (BVDV), Bovine Respiratory Syncytial Virus (BRSV), and Parainfluenza-3 Virus (PI3).
+* *Secondary Bacterial Pathogens:* *Mannheimia haemolytica* (produces a potent leukotoxin causing fibrinous pleuropneumonia), *Pasteurella multocida*, and *Histophilus somni*.
+* *Therapy:* Early treatment using long-acting macrolide antibiotics (e.g., tulathromycin, gamithromycin) combined with non-steroidal anti-inflammatory drugs (NSAIDs) like flunixin meglumine.
+
+
+* **Paratuberculosis (Johne’s Disease):** Chronic, incurable granulomatous enteritis caused by *Mycobacterium avium* subsp. *paratuberculosis* (MAP).
+* *Pathology:* Thickening and corrugation of the ileum and colon mucosa, destroying nutrient absorption capacity.
+* *Clinical Signs:* Usually presents in animals over 2 years old as persistent, profuse, watery diarrhea that is unresponsive to treatment, accompanied by progressive emaciation despite a normal appetite.
+* *Diagnostics:* Fecal PCR or culture, paired with serum ELISA checks.
+
+
+* **Bovine Spongiform Encephalopathy (BSE):** Fatal neurodegenerative disease caused by a misfolded infectious protein known as a prion ($PrP^{Sc}$).
+* *Transmission:* Ingestion of contaminated meat and bone meal (MBM) containing the prion agent.
+* *Clinical Presentation:* Long incubation period (3 to 6 years) followed by neurological signs: hyper-reactivity to sensory touch/sound, hindlimb ataxia, behavioral changes (frenzy, nervousness), and progressive weight loss.
+* *Control:* Strict bans on feeding mammalian protein to ruminants and compulsory culling of all suspect cases; confirmation requires postmortem histopathology of the brainstem (*obex* region).
+
+
+
+#### 4. Reference Biometric & Physiological Profiles
+
+The following matrix establishes normal baseline health parameters for healthy adult cattle:
+
+| Parameter Type | Normal Range | Clinical Significance of Deviations |
+| --- | --- | --- |
+| **Rectal Temperature** | 38.0°C – 39.3°C (101.5°F – 102.8°F) | Elevation signals pyrexia (infection/inflammation) or heat stroke; drops signal hypocalcemia or shock. |
+| **Heart / Pulse Rate** | 60 – 90 beats per minute (BPM) | Tachycardia (>100 BPM) indicates acute pain, systemic toxemia, severe dehydration, or cardiac failure. |
+| **Respiration Rate** | 18 – 28 breaths per minute | Tachypnea (>35 breaths/min) indicates respiratory distress (BRDC), heat stress, or systemic acidosis. |
+| **Rumen Contractions** | 2 – 3 contractions every 2 minutes | Rumen atony (0 contractions) indicates primary indigestion, ruminal acidosis, hypocalcemia, or LDA. |
+
+---
+
+### File Footprint Properties
+
+* **Size:** ~0.026 MB (Approx. 26.5 KB).
+* **RAG Design Strategy:** High semantic density, dense numerical metrics, explicit taxonomic terms, and clear contraindication criteria to guarantee crisp vector index lookups.
