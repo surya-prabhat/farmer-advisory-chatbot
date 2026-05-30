@@ -1,6 +1,6 @@
 # Farmer Advisory Chatbot — Japfa Comfeed India
 
-A RAG-based (Retrieval-Augmented Generation) conversational assistant that answers poultry and cattle farming queries in English and Hindi. Built as a technical assignment for Japfa Comfeed India, the chatbot grounds every response strictly in provided documents — no hallucination, no outside knowledge.
+A RAG-based (Retrieval-Augmented Generation) conversational assistant that answers poultry and cattle farming queries in English and Hindi. The chatbot grounds every response strictly in provided documents — no hallucination, no outside knowledge.
 
 ---
 
