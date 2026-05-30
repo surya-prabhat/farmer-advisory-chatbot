@@ -13,7 +13,6 @@ st.title("🌱 Farmer Advisory Chatbot")
 st.caption("Ask your Queries")
 
 @st.cache_resource
-
 def get_chain():
     return build_chain()
 

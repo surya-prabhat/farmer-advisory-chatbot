@@ -1,4 +1,4 @@
-import os
+
 from dotenv import load_dotenv
 from langchain_community.document_loaders import DirectoryLoader, TextLoader
 from langchain.text_splitter import RecursiveCharacterTextSplitter
@@ -14,7 +14,7 @@ CHUNK_SIZE = 1500
 CHUNK_OVERLAP = 200
 
 def ingest(): 
-    print("Loading Docuemnts...")
+    print("Loading Documents...")
     loader = DirectoryLoader(
         DOCS_DIR,
         glob="**/*.txt",
@@ -37,7 +37,7 @@ def ingest():
     chunks = [chunk for chunk in chunks if len(chunk.page_content.strip()) > 150]
 
     print(f"Split into {len(chunks)} chunks")
-    print("Connecting to Google embeddings")
+    print("Connecting to Ollama embeddings")
 
     embeddings = OllamaEmbeddings(model=EMBED_MODEL)
 
