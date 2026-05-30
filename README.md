@@ -89,3 +89,20 @@ This is not a limitation from the app's end but just lack of information, adding
 - **More languages** — `deep-translator` supports 100+ languages; adding regional languages like Telugu, Tamil, or Marathi requires no code changes, only testing
 - **More knowledge domains** — drop additional `.txt` files into `docs/` and re-ingest; the retrieval pipeline handles new content automatically
 
+## Some questions you can try
+
+### English
+
+1. My chickens are sneezing, have trouble breathing, and some are dying suddenly. What could be wrong?
+2. My cow is drooling a lot, has a fever, and I can see sores on her tongue and feet. What disease is this?
+3. What injections does a newborn chick need and when?
+4. How do I treat my cows if they have worms or skin infections?
+5. How do I stop disease from entering my farm when I bring in new birds?
+
+### Hindi
+
+1. मेरी गाय बहुत लार टपका रही है, उसे बुखार है, और उसकी जीभ और पैरों पर छाले हैं। यह कौन सी बीमारी है?
+2. मैं कैसे जानूं कि मेरी मुर्गियों को पेट की बीमारी है, इससे पहले कि वे मरने लगें?
+3. नवजात चूजे को कौन से टीके लगाने चाहिए और कब?
+4. नई मुर्गियां लाने पर बीमारी को अपने फार्म में आने से कैसे रोकूं?
+5. मेरे एक जानवर की अचानक मृत्यु हो गई और नाक और मुंह से खून आ रहा था। मुझे क्या करना चाहिए?
