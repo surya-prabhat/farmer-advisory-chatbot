@@ -10,7 +10,7 @@ A RAG-based (Retrieval-Augmented Generation) conversational assistant that answe
 |---|---|
 | Framework | Python 3.x, LangChain 0.3.25 |
 | LLM | Google Gemini 3.1 Flash (via API) |
-| Embeddings | `nomic-embed-text` via Ollama |
+| Embeddings | `nomic-embed-text` via Ollama | #Preferred over google or claude to negate rate limits
 | Vector Store | ChromaDB |
 | Keyword Search | BM25 (`rank_bm25`) |
 | Translation | `deep-translator` + `langdetect` |
@@ -50,7 +50,7 @@ venv\Scripts\activate        # Windows
 # 3. Install dependencies
 pip install -r requirements.txt
 
-# 4. Pull the embedding model via Ollama
+# 4. Pull the embedding model via Ollama (Make sure you have Ollama installed in your PC)
 ollama pull nomic-embed-text
 
 # 5. Add your Gemini API key
