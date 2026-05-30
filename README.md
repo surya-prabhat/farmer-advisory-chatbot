@@ -39,7 +39,7 @@ A RAG-based (Retrieval-Augmented Generation) conversational assistant that answe
 
 ```bash
 # 1. Clone the repository
-git clone <repo-url>
+git clone https://github.com/surya-prabhat/farmer-advisory-chatbot
 cd farmer-advisory-chatbot
 
 # 2. Create and activate a virtual environment
