@@ -53,9 +53,9 @@ pip install -r requirements.txt
 # 4. Pull the embedding model via Ollama (Make sure you have Ollama installed in your PC)
 ollama pull nomic-embed-text
 
-# 5. Add your Gemini API key
-# Create a file named .env in the project root and add:
-# GOOGLE_API_KEY=your_key_here
+# 5. Create a .env file in the project root with your Gemini API key
+#    Create a new file named exactly ".env" (no other extension) and add this line:
+#    GOOGLE_API_KEY=your_key_here
 
 # 6. Run the app
 streamlit run app.py
@@ -64,6 +64,18 @@ streamlit run app.py
 > The ChromaDB vector store is pre-built and committed to this repository. You do not need to run `ingest.py` unless you add new documents to the `docs/` folder.
 
 ---
+
+### VS Code Users — Select the Python Interpreter(if imports are not working after running pip install)
+
+After setup, open the project in VS Code and select the correct interpreter so Pylance resolves imports correctly:
+
+1. Press `Ctrl + Shift + P`
+2. Search for **Python: Select Interpreter**
+3. Select the interpreter inside the project's `venv` folder:
+   `.\venv\Scripts\python.exe`
+
+> This also resolves the `DefaultCredentialsError` that appears when VS Code runs the app with the wrong Python environment — the venv's interpreter is the one that has the packages and can read the `.env` file correctly.
+
 
 ## Known Limitations and How to Improve
 
